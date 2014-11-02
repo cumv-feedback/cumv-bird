@@ -1,0 +1,199 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 2625
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Canada ; Times: 5
+	Country: France ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Panama ; Times: 9
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 90
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 4
+	Date: 2014-10-11 ; Times: 5
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 8
+	Date: 2014-10-15 ; Times: 1
+	Date: 2014-10-17 ; Times: 2
+	Date: 2014-10-19 ; Times: 3
+	Date: 2014-10-20 ; Times: 16
+	Date: 2014-10-21 ; Times: 5
+	Date: 2014-10-22 ; Times: 4
+	Date: 2014-10-23 ; Times: 13
+	Date: 2014-10-24 ; Times: 2
+	Date: 2014-10-25 ; Times: 6
+	Date: 2014-10-26 ; Times: 2
+	Date: 2014-10-27 ; Times: 25
+	Date: 2014-10-28 ; Times: 16
+	Date: 2014-10-29 ; Times: 4
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "argusianus captive" ; Times: 10
+	Query: "Calocitta formosa pompata" ; Times: 3
+	Query: "specificepithet:varia genus:mniotilta (nest)" ; Times: 1
+	Query: "type:specimen (melanitta AND cornell) AND (NOT sound)" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 4
+	Query: "type:specimen (trogon AND cumv) AND (NOT sound)" ; Times: 1
+	Query: "type:specimen (geococcyx AND cumv) AND (NOT sound)" ; Times: 1
+	Query: "PAH" ; Times: 1
+	Query: "Accipiter striatus suttoni" ; Times: 1
+	Query: "nothoprocta cornell university" ; Times: 1
+	Query: "AN 830" ; Times: 1
+	Query: "Numenius americanus parvus year <= 1910" ; Times: 1
+	Query: "colaptes campestris tissue" ; Times: 2
+	Query: "Anastomus oscitans" ; Times: 2
+	Query: "birds institutioncode:cumv year >= 1990 year <= 1990" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "Cyanocorax affinis zeledoni" ; Times: 2
+	Query: "type:specimen (melanitta AND cumv) AND (NOT sound)" ; Times: 1
+	Query: "contopus tissue:1" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 1965 year <= 1965" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 2011 year <= 2011" ; Times: 1
+	Query: "anas" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:corax genus:corvus year >= 1984 year <= 2014" ; Times: 1
+	Query: "Chlorospingus tissue:1" ; Times: 1
+	Query: "Semnornis year >= 1985 year <= 2014" ; Times: 1
+	Query: "Lacedo pulchella" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 1955 year <= 1955" ; Times: 1
+	Query: "sayornis tissue:1" ; Times: 1
+	Query: "Michigan" ; Times: 1
+	Query: "Dendrocincla fuliginosa tissue:1" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 2004 year <= 2004" ; Times: 1
+	Query: "Asthenes wyatti" ; Times: 2
+	Query: "Cistothorus palustris waynei" ; Times: 1
+	Query: "(specimens collected ) year >= 1950 year <= 1960" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "bubalornis" ; Times: 1
+	Query: "sublegatus modestus tissue" ; Times: 1
+	Query: "catharus minimus" ; Times: 3
+	Query: "birds institutioncode:cumv year >= 2012 year <= 2012" ; Times: 1
+	Query: "genus:cyanocorax tissue:1" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 1970 year <= 1970" ; Times: 1
+	Query: "mimus saturninus tissue" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 2005 year <= 2005" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina"" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 2012" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 2014" ; Times: 1
+	Query: "melanitta cornell type:specimen AND (NOT sound)" ; Times: 1
+	Query: "color" ; Times: 1
+	Query: "type:specimen (Stercorarius AND cumv) AND (NOT sound)" ; Times: 1
+	Query: "dendrocincla fuliginosa tissue:1" ; Times: 1
+	Query: "sturnella superciliaris tissue" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 2000 year <= 2000" ; Times: 1
+	Query: "Chordeiles minor austin texas" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 2003 year <= 2003" ; Times: 1
+	Query: "hosner" ; Times: 1
+	Query: "Dendroica pensylvanica" ; Times: 2
+	Query: "birds institutioncode:cumv year >= 1956 year <= 1956" ; Times: 1
+	Query: "melanitta cornell" ; Times: 1
+	Query: "semnornis year >= 1990 year <= 2014" ; Times: 1
+	Query: "pipra iris tissue:1" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 2001 year <= 2001" ; Times: 1
+	Query: "cumv birds" ; Times: 1
+	Query: "Lacedo pulchella type:specimen" ; Times: 1
+	Query: "passer domesticus type:specimen" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 2002 year <= 2002" ; Times: 2
+	Query: "odontophorus gujanensis" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 1971 year <= 1971" ; Times: 1
+	Query: "fish institutioncode:cumv year >= 2005" ; Times: 1
+	Query: "Columba speciosa panama" ; Times: 1
+	Query: "geositta cornell" ; Times: 1
+	Query: "odontophorus panama" ; Times: 1
+	Query: "bucerotidae cornell" ; Times: 1
+	Query: "cyanocorax tissue:1" ; Times: 1
+	Query: "cumv synallaxis" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 1997 year <= 1997" ; Times: 1
+	Query: "Campylopterus hemileucurus panama" ; Times: 2
+	Query: "coryphospingus cucullatus tissue" ; Times: 1
+	Query: "odontophorus gujanensis panama" ; Times: 1
+	Query: "birds institutioncode:cumv year >= 1995 year <= 1995" ; Times: 1
+	Query: "calyptorhynchus cornell" ; Times: 1
+	Query: "Numenius americanus parvus" ; Times: 1
+	Query: "Empidonax alnorum tissue:1" ; Times: 1
+	Query: "Tachuris rubrigastra" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "Hemicircus" ; Times: 1
+	Query: "crax rubra" ; Times: 3
+	Query: "type:specimen genus:Furnarius institutioncode:CUMV" ; Times: 1
+	Query: "semnornis tissue:1" ; Times: 1
+	Query: "semnornis year >= 1990 year <= 2014 tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 166 download events in this period)
+Total number of records downloaded: 902 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 726
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 3
+	Date: 2014-10-15 ; Times: 2
+	Date: 2014-10-17 ; Times: 1
+	Date: 2014-10-19 ; Times: 1
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-27 ; Times: 3
+	Date: 2014-10-28 ; Times: 1
+	Date: 2014-10-29 ; Times: 2
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrocincla" ; Times: 1
+	Query: "Blarina brevicauda institutioncode:CUMV" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:Carpodacus" ; Times: 2
+	Query: "MINDORO" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Alaska AND Kodiak type:specimen class:Aves" ; Times: 1
+	Query: "contopus tissue:1" ; Times: 2
+	Query: "passer montanus" ; Times: 1
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "Microtus pennsylvanicus institutioncode:CUMV" ; Times: 1
+	Query: "passer domesticus type:specimen" ; Times: 1
+	Query: "momotus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 709
+Total number of records retrieved from searches: 7529
+Number of download events that retrieved data from the resource: 212
+Total number of records downloaded: 44293
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 709
+Total number of records retrieved from searches: 7529
+Number of download events that retrieved data from the resource: 259
+Total number of records downloaded: 69134
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
