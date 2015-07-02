@@ -1,0 +1,682 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 613
+Number of records retrieved in searches: 5655
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: Canada ; Times: 14
+	Country: Colombia ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: Denmark ; Times: 44
+	Country: France ; Times: 3
+	Country: Germany ; Times: 20
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Paraguay ; Times: 2
+	Country: Spain ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 453
+	Country: Unknown ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 15
+	Date: 2015-06-02 ; Times: 15
+	Date: 2015-06-03 ; Times: 20
+	Date: 2015-06-04 ; Times: 11
+	Date: 2015-06-05 ; Times: 24
+	Date: 2015-06-06 ; Times: 4
+	Date: 2015-06-07 ; Times: 12
+	Date: 2015-06-08 ; Times: 33
+	Date: 2015-06-09 ; Times: 42
+	Date: 2015-06-10 ; Times: 18
+	Date: 2015-06-11 ; Times: 21
+	Date: 2015-06-12 ; Times: 22
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 9
+	Date: 2015-06-16 ; Times: 42
+	Date: 2015-06-17 ; Times: 36
+	Date: 2015-06-18 ; Times: 3
+	Date: 2015-06-19 ; Times: 14
+	Date: 2015-06-20 ; Times: 8
+	Date: 2015-06-21 ; Times: 13
+	Date: 2015-06-22 ; Times: 14
+	Date: 2015-06-23 ; Times: 21
+	Date: 2015-06-24 ; Times: 53
+	Date: 2015-06-25 ; Times: 30
+	Date: 2015-06-26 ; Times: 33
+	Date: 2015-06-27 ; Times: 17
+	Date: 2015-06-28 ; Times: 14
+	Date: 2015-06-29 ; Times: 60
+	Date: 2015-06-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Agapornis cana" ; Times: 3
+	Query: "type:specimen AND (aves) distance(location,geopoint(42.73087427928485,-76.2451171875))<100000" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "Turdus assimilis tamaulipas" ; Times: 1
+	Query: "Zosterops japonicus type:specimen" ; Times: 1
+	Query: "Pachyramphus aglaiae SONORA" ; Times: 1
+	Query: "cathartes aura stateprovince:"florida" (egg)" ; Times: 2
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "genus:turdus media:1" ; Times: 1
+	Query: "tockus griseus" ; Times: 2
+	Query: "dragonfly" ; Times: 2
+	Query: "Archilochus colubris" ; Times: 2
+	Query: ""Thua Thien-Hue"" ; Times: 3
+	Query: "45253 class:aves" ; Times: 1
+	Query: "dinopium rafflesii type:specimen tissue:1" ; Times: 1
+	Query: "Myiozetetes similis brazil" ; Times: 1
+	Query: "Campephilus leucopogon" ; Times: 2
+	Query: "Cypsnagra hirundinacea brazil" ; Times: 1
+	Query: "tityra semifasciata fortis country:"peru"" ; Times: 1
+	Query: ""pipra mentalis" (tissue) tissue:1" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 1
+	Query: "aves Georgia United States Bombycilla" ; Times: 1
+	Query: "country:"Panama"" ; Times: 2
+	Query: "Sitta neglecta" ; Times: 1
+	Query: "Elvira cupreiceps" ; Times: 1
+	Query: ""Tangara cyanoventris" brazil" ; Times: 1
+	Query: "type:specimen class:aves catalognumber:14366" ; Times: 1
+	Query: "Picumnus pygmaeus" ; Times: 1
+	Query: "Heliothryx barroti" ; Times: 1
+	Query: "trogon citreolus CUMV" ; Times: 2
+	Query: "Pyrocephalus rubinus" ; Times: 2
+	Query: "asio" ; Times: 1
+	Query: "Celeus Flavescens" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "panama" ; Times: 2
+	Query: "Cynanthus latirostris" ; Times: 2
+	Query: "trochilidae skeleton type:specimen" ; Times: 1
+	Query: "Melanerpes lewis Island" ; Times: 1
+	Query: "aves Georgia United States Mniotilta varia" ; Times: 1
+	Query: "trogon clathratus" ; Times: 3
+	Query: "acrocephalus orientalis" ; Times: 2
+	Query: "Mellisuga minima" ; Times: 2
+	Query: "Oxypogon lindenii" ; Times: 1
+	Query: "aythya nyroca" ; Times: 4
+	Query: "Cyclarhis gujanensis brazil" ; Times: 1
+	Query: "aves Georgia United States sandwichensis" ; Times: 1
+	Query: "aves Georgia United States Dumetella carolinensis" ; Times: 1
+	Query: "Ramphocelus bresilius" ; Times: 2
+	Query: "aves Georgia United States Icterus galbula" ; Times: 1
+	Query: "Merops malimbicus" ; Times: 1
+	Query: "melospiza nigrescens tissue:1" ; Times: 1
+	Query: "Platte County" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "Lampornis type:specimen tissue:1" ; Times: 1
+	Query: "Tachyphonus rufus brazil" ; Times: 1
+	Query: "Tachyphonus cristatus brazil" ; Times: 1
+	Query: "Psittacula enlarged" ; Times: 4
+	Query: "sicily" ; Times: 3
+	Query: "Blythipicus tissue:1" ; Times: 1
+	Query: "anas formosa" ; Times: 3
+	Query: "coccyzus americanus type:specimen" ; Times: 1
+	Query: "Bubo virginianus type:specimen" ; Times: 1
+	Query: "cormorant (preserved) mappable:1" ; Times: 1
+	Query: "29904 bleda" ; Times: 1
+	Query: "specificepithet:pipra genus:pipra institutioncode:cumv" ; Times: 1
+	Query: "merops cumv" ; Times: 12
+	Query: "setophaga ruticilla tissue:1 distance(location,geopoint(43.18779174961303,-76.28506734967232))<165973" ; Times: 1
+	Query: "aves Georgia United States Dendroica petechia" ; Times: 1
+	Query: "ADAB class:aves" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 16
+	Query: "trogon bairdii" ; Times: 1
+	Query: "aves shingle shanty type:specimen distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 2
+	Query: "melanerpes chrysogenys tissue:1" ; Times: 1
+	Query: "asio otus" ; Times: 1
+	Query: "melospiza melodia" ; Times: 3
+	Query: "tachycineta albilinea tissue:1" ; Times: 2
+	Query: "cu 2404" ; Times: 1
+	Query: "vireo bellii" ; Times: 2
+	Query: "institution code" ; Times: 1
+	Query: "Merops bulocki" ; Times: 2
+	Query: "country:"Paraguay" genus:Ara" ; Times: 1
+	Query: "Campethera bennettii" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Campylopterus pampa" ; Times: 2
+	Query: "Numida meleagris country:"ethiopia"" ; Times: 1
+	Query: "Melanerpes Guadeloupe" ; Times: 1
+	Query: "Paroaria dominicana" ; Times: 1
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "manacus manacus tissue:1" ; Times: 1
+	Query: "numida year >= 1960 year <= 1989" ; Times: 1
+	Query: "kansas harvey" ; Times: 2
+	Query: "Eriocnemis nigrivestis" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "muscicapa thalassina" ; Times: 1
+	Query: "aves Georgia United States Dendroica striata" ; Times: 1
+	Query: "aves Mclean county Illinois" ; Times: 1
+	Query: "Hapalopsittaca type:specimen" ; Times: 1
+	Query: "Oaxaca" ; Times: 2
+	Query: "distance(location,geopoint(39.70718665682654,-89.736328125))<100000" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "Microstilbon burmeisteri" ; Times: 1
+	Query: "Treron pompadora axillaris" ; Times: 1
+	Query: "Enfield county:"Tompkins" stateprovince:"New York"" ; Times: 3
+	Query: "zonotrichia albicollis tissue:1" ; Times: 1
+	Query: "Archbold Biological Station class:Aves" ; Times: 1
+	Query: "plancus country:"paraguay" AND (NOT UMMZ) year >= 1937 year <= 1937" ; Times: 1
+	Query: "aves Georgia United States Limnothlypis" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 8
+	Query: "numida" ; Times: 1
+	Query: "phylloscopus griseolus" ; Times: 1
+	Query: "auburn" ; Times: 1
+	Query: "Meliphaga cinereifrons" ; Times: 1
+	Query: "Colinus virginianus cuba" ; Times: 1
+	Query: "Chlorostilbon maugaeus" ; Times: 1
+	Query: "aves Georgia United States Parula americana" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "catalognumber:38682" ; Times: 1
+	Query: "aves Georgia United States Turdus migratorius" ; Times: 1
+	Query: "bankhead national forest" ; Times: 3
+	Query: "amazilia franciae" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "kansas university" ; Times: 2
+	Query: "Touit type:specimen" ; Times: 7
+	Query: "trogon cumv" ; Times: 12
+	Query: "aves Georgia United States Ammodramus maritimus" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 1
+	Query: "specificepithet:flavigularis genus:Chlorospingus" ; Times: 2
+	Query: "pitta brachyura" ; Times: 18
+	Query: "aythya fuligula" ; Times: 1
+	Query: ""melospiza melodia" type:specimen tissue:1" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:caspia genus:sterna" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "melospiza georgiana type:specimen stateprovince:"New Jersey" year >= 2000 year <= 2015 tissue:1" ; Times: 1
+	Query: "Hemithraupis flavicollis brazil" ; Times: 1
+	Query: "Cercomela familiaris" ; Times: 2
+	Query: "Stephanophorus diadematus brazil" ; Times: 1
+	Query: "Arkansas type:specimen year >= 1985 year <= 2015" ; Times: 1
+	Query: "Oxyruncus cristatus brazil" ; Times: 1
+	Query: "cissopis brazil" ; Times: 1
+	Query: "melospiza georgiana" ; Times: 1
+	Query: ""melospiza melodia" tissue:1" ; Times: 2
+	Query: "aves Georgia United States Melospiza melodia" ; Times: 2
+	Query: "aves Georgia United States Geothlypis trichas" ; Times: 1
+	Query: "Trichothraupis melanops brazil" ; Times: 2
+	Query: "30684" ; Times: 1
+	Query: "aves Georgia United States Aimophila aestivalis" ; Times: 2
+	Query: "Trogon citreolus" ; Times: 2
+	Query: "Doricha enicura" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "aves Georgia United States noveboracensis" ; Times: 1
+	Query: "Chilapa" ; Times: 1
+	Query: ""aimophila ruficauda" country:"Mexico" tissue:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:alba genus:tyto" ; Times: 1
+	Query: "aves Georgia United States Dendroica caerulescens" ; Times: 1
+	Query: "trogon caligatus" ; Times: 2
+	Query: "eriocnemis nigrivestis" ; Times: 2
+	Query: "chalybura urochrysia mexico" ; Times: 1
+	Query: "catalognumber:49434" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 3
+	Query: "cleveland museum" ; Times: 1
+	Query: "sylvietta rufescens" ; Times: 2
+	Query: "Platte county nebraska" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "Merops variegatus" ; Times: 1
+	Query: "neglecta" ; Times: 1
+	Query: "cyrtonyx year >= 2000 year <= 2015" ; Times: 1
+	Query: "Zonotrichia leucophrys leucophrys" ; Times: 1
+	Query: "aves Georgia United States Pipilo erythrophthalmus" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "Coeligena helianthea" ; Times: 1
+	Query: "cyrtonyx year >= 1990 year <= 2015" ; Times: 1
+	Query: "zonotrichia leucophrys leucophrys type:specimen tissue:1" ; Times: 5
+	Query: "aves Georgia United States Toxostoma rufum" ; Times: 3
+	Query: "Archbold Biological Station" ; Times: 2
+	Query: "rana institutioncode:cumv (skeleton)" ; Times: 1
+	Query: "Dactylortyx thoracicus thoracicus" ; Times: 2
+	Query: "Columbina tissue:1" ; Times: 1
+	Query: "aves Georgia United States Protonotaria" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "aves Georgia United States Spiza americana" ; Times: 1
+	Query: "trogon aurantiiventris cumv" ; Times: 2
+	Query: "Chalcostigma heteropogon" ; Times: 1
+	Query: "29834 bleda" ; Times: 1
+	Query: "aves Georgia United States Sapelo" ; Times: 1
+	Query: "Trogon citreolus CUMV" ; Times: 1
+	Query: "catalognumber:51493" ; Times: 1
+	Query: "aves Georgia United States Sialia sialis" ; Times: 2
+	Query: "trogon aurantiiventris" ; Times: 2
+	Query: "specificepithet:pipra genus:pipra institutioncode:cumv tissue:1" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "Numida meleagris meleagris" ; Times: 1
+	Query: "Falcipennis canadensis minnesota" ; Times: 1
+	Query: "harpactes" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "45243 class:aves" ; Times: 1
+	Query: "aves Georgia United States Setophaga ruticilla" ; Times: 1
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "Tachycineta albilinea tissue:1" ; Times: 2
+	Query: "Empidonax year >= 1900 year <= 2015 mappable:1" ; Times: 1
+	Query: "Anas x tissue:1" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "Butorides" ; Times: 1
+	Query: "aves Georgia United States Passerina caerulea" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Rhodonessa" ; Times: 1
+	Query: "numida year >= 1970 year <= 1979" ; Times: 1
+	Query: "colinus virginianus year >= 1990 year <= 2015" ; Times: 1
+	Query: ""Tangara velia" brazil" ; Times: 1
+	Query: "Pipraeidea melanonota brazil" ; Times: 1
+	Query: "viburnum" ; Times: 1
+	Query: "cormorant (preserved)" ; Times: 1
+	Query: "coccyzus americanus" ; Times: 1
+	Query: "inornata tissue:1" ; Times: 1
+	Query: "accipiter soloensis" ; Times: 2
+	Query: "Arundinicola leucocephala brazil" ; Times: 1
+	Query: "aves Georgia United States Sturnella magna" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Jynx" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+	Query: ""Eurypyga helias" type:specimen (skeleton)" ; Times: 1
+	Query: "insects" ; Times: 5
+	Query: "Selasphorus sasin" ; Times: 2
+	Query: "aves Georgia United States Dendroica discolor" ; Times: 1
+	Query: "aves Georgia United States Seiurus noveboracensis" ; Times: 1
+	Query: "Guatemala city class:Aves" ; Times: 1
+	Query: "county:"Macon" stateprovince:"Illinois" year <= 2015" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:henslowii genus:ammodramus" ; Times: 1
+	Query: "aves Georgia United States Catharus fuscescens" ; Times: 1
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "Philemon fuscicapillus" ; Times: 1
+	Query: "aves Georgia United States Pheucticus" ; Times: 1
+	Query: "setophaga ruticilla tissue:1 distance(location,geopoint(43.18779174961303,-76.28506734967232))<100000" ; Times: 1
+	Query: "Chlorophonia pyrrhophrys" ; Times: 1
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "aves Georgia United States Piranga rubra" ; Times: 6
+	Query: "jaguar" ; Times: 1
+	Query: "Philemon inornatus" ; Times: 1
+	Query: "setophaga ruticilla tissue:1 distance(location,geopoint(43.18779174961303,-76.28506734967232))<304992" ; Times: 1
+	Query: "Melospiza georgiana" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 1
+	Query: "cathartes aura type:specimen (egg)" ; Times: 1
+	Query: "empidonax traillii" ; Times: 1
+	Query: "greece" ; Times: 1
+	Query: "huichapan" ; Times: 1
+	Query: "Heliomaster squamosus" ; Times: 1
+	Query: "colinus virginianus year >= 1950 year <= 2015" ; Times: 1
+	Query: "type:specimen county:"Orleans" class:Aves year >= 0 year <= 2015" ; Times: 1
+	Query: "Tyrannopsis sulphurea brazil" ; Times: 1
+	Query: "francolinus coqui" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 2
+	Query: "aves Georgia United States Dendroica pinus" ; Times: 1
+	Query: "Cyanocorax chrysops brazil" ; Times: 1
+	Query: "W Snyder county:"Tompkins" stateprovince:"New York"" ; Times: 1
+	Query: "melanerpes herminieri" ; Times: 1
+	Query: "trogon citreolus cumv" ; Times: 1
+	Query: "Dendropicos xantholophus type:specimen" ; Times: 2
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "acridotheres ginginianus" ; Times: 1
+	Query: "specificepithet:jefferyi genus:pithecophaga class:aves" ; Times: 1
+	Query: "Lampornis calolaemus" ; Times: 1
+	Query: "Thlypopsis sordida brazil" ; Times: 2
+	Query: "37860 class:aves" ; Times: 2
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "acrocephalus scirpaceus" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "Eriocnemis glaucopoides" ; Times: 1
+	Query: "CAtamblyrhynchus" ; Times: 1
+	Query: "Maxon" ; Times: 1
+	Query: "aves Georgia United States Piranga olivacea" ; Times: 1
+	Query: "amazilia cyanura" ; Times: 2
+	Query: "turkey" ; Times: 1
+	Query: "Falcipennis canadensis minnesota egg" ; Times: 1
+	Query: "aves Georgia United States Dendroica tigrina" ; Times: 1
+	Query: "Tachyphonus coronatus brazil" ; Times: 1
+	Query: "harpactes cumv" ; Times: 3
+	Query: "Zonotrichia leucophrys leucophrys type:specimen tissue:1" ; Times: 1
+	Query: "setophaga ruticilla tissue:1 distance(location,geopoint(43.18779174961303,-76.28506734967232))<458119" ; Times: 2
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "phylloscopus coronatus" ; Times: 2
+	Query: "Pyrocephalus" ; Times: 1
+	Query: ""Vermivora ruficapilla" OR "Oreothlypis ruficapilla" OR "Leiothlypis ruficapilla" tissue:1" ; Times: 1
+	Query: "Colonia colonus brazil" ; Times: 1
+	Query: ""Anas discors" tissue:1" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 2
+	Query: "aves Georgia United States Wilsonia citrina" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:alba genus:tyto AND (NOT pratincola)" ; Times: 1
+	Query: "spinosa" ; Times: 2
+	Query: "Enfield Falls New York" ; Times: 1
+	Query: "Accipiter cooperii" ; Times: 1
+	Query: "type:specimen stateprovince:"Arkansas" class:Aves year >= 1985 year <= 2015" ; Times: 3
+	Query: "H. A. Brown" ; Times: 1
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "aves Georgia United States Polioptila" ; Times: 1
+	Query: "myophonus horsfieldii" ; Times: 4
+	Query: "Chondestes grammacus" ; Times: 1
+	Query: "hemithraupis ruficapilla brazil" ; Times: 1
+	Query: "Tangara cayana brazil" ; Times: 1
+	Query: ""Turdus amaurochalinus" brazil" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 1
+	Query: "ara maracana" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+	Query: "aves Georgia United States Mimus polyglottos" ; Times: 1
+	Query: "Megalaima australis australis" ; Times: 1
+	Query: "specificepithet:diadema genus:Catamblyrhynchus class:aves" ; Times: 1
+	Query: "catalognumber:35012" ; Times: 3
+	Query: "trogon CUMV" ; Times: 5
+	Query: "aves Georgia United States Passerina ciris" ; Times: 5
+	Query: "trogoniformes" ; Times: 1
+	Query: "atitlan" ; Times: 1
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "gorsachius melanolophus" ; Times: 2
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "Columbina passerina tissue:1" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 2
+	Query: "Lophornis helenae" ; Times: 1
+	Query: "wings" ; Times: 1
+	Query: ""1520"" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "aves Georgia United States Quiscalus quiscula" ; Times: 1
+	Query: "numida year >= 1990 year <= 2015" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "aves Georgia United States audubonii" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Thamnophilus" ; Times: 1
+	Query: "contopus virens year >= 1985 year <= 2015" ; Times: 1
+	Query: "sylvietta denti" ; Times: 1
+	Query: "aimophila aestivalis" ; Times: 1
+	Query: "cleveland" ; Times: 1
+	Query: "Arremon" ; Times: 1
+	Query: "Botaurus tissue:1" ; Times: 1
+	Query: "aves Georgia United States motacilla" ; Times: 2
+	Query: "Cynanthus doubledayi" ; Times: 1
+	Query: "setophaga ruticilla (june) tissue:1" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Aves Andaman" ; Times: 1
+	Query: "aves Georgia United States Polioptila caerulea" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Turdus infuscatus type:specimen" ; Times: 2
+	Query: "trogon caligatus CUMV" ; Times: 2
+	Query: ""ammodramus savannarum"" ; Times: 1
+	Query: "trogon citreolus" ; Times: 5
+	Query: "stateprovince:"michigan" specificepithet:herodias year >= 1837 year <= 1880" ; Times: 1
+	Query: "aves Georgia United States formosus" ; Times: 1
+	Query: "vermivora ruficapilla" ; Times: 1
+	Query: "setophaga ruticilla tissue:1 distance(location,geopoint(43.18779174961303,-76.28506734967232))<165973.00803911488" ; Times: 1
+	Query: "rhodonessa caryophyllacea" ; Times: 1
+	Query: "aves Georgia United States Cardinalis cardinalis" ; Times: 4
+	Query: "cumv 9885" ; Times: 1
+	Query: "cumv 9884" ; Times: 1
+	Query: "Hybrid" ; Times: 1
+	Query: "country:"paraguay" genus:ara" ; Times: 1
+	Query: "merops orientalis cumv" ; Times: 1
+	Query: "trogon aurantiiventris CUMV" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "irena puella" ; Times: 4
+	Query: "Dendropicos pyrrhogaster type:specimen" ; Times: 1
+	Query: "trogon violaceus CUMV" ; Times: 1
+	Query: "aves Georgia United States cyanea" ; Times: 1
+	Query: "spizella passerina class:aves" ; Times: 1
+	Query: "Rhynochetos jubatus" ; Times: 3
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "gerygone dorsalis" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 1
+	Query: "melospiza georgiana tissue:1" ; Times: 1
+	Query: "Sirystes brazil" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "Wilsonia citrina Mexico" ; Times: 1
+	Query: "rana institutioncode:CUMV" ; Times: 1
+	Query: "Thryomanes bewickii stateprovince:"California" tissue:1" ; Times: 1
+	Query: "35696" ; Times: 4
+	Query: "Oaxaca class:aves" ; Times: 1
+	Query: "R distance(location,geopoint(43.50075243569041,-100.5029296875))<100000" ; Times: 1
+	Query: "Lampornis tissue:1" ; Times: 1
+	Query: "carduelis pinus" ; Times: 2
+	Query: "veniliornis" ; Times: 1
+	Query: "R distance(location,geopoint(41.11246878918085,-88.59375))<100000" ; Times: 1
+	Query: "canada "melospiza melodia" tissue:1" ; Times: 1
+	Query: "selasphorus sasin tissue:1" ; Times: 2
+	Query: "rana institutioncode:cumv" ; Times: 1
+	Query: "aves Rio Gavilan" ; Times: 1
+	Query: "trogon clathratus cumv" ; Times: 1
+	Query: "seicercus burkii" ; Times: 3
+	Query: "Sicalis flaveola brazil" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "Anas fulvigula mexico" ; Times: 1
+	Query: "Basilinna leucotis" ; Times: 4
+	Query: "test" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "francolinus rufopictus" ; Times: 1
+	Query: "Melipotes gymnops" ; Times: 1
+	Query: "aves Georgia United States palmarum palmarum" ; Times: 2
+	Query: "merops malimbicus cumv" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "carpodacus" ; Times: 1
+	Query: "garrulax jerdoni" ; Times: 1
+	Query: "Lampornis cinereicauda" ; Times: 1
+	Query: "aves Georgia United States Geothlypis" ; Times: 1
+	Query: "Ramphotrigon ruficauda brazil" ; Times: 1
+	Query: "Chlorostilbon auriceps" ; Times: 1
+	Query: "46590" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga tissue:1" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 1
+	Query: "merops hirundinaceus cumv" ; Times: 1
+	Query: "Sternoclyta cyanopectus" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "Schistochlamys ruficapillus brazil" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 155 (out of 1524 download events in this period)
+Total number of records downloaded: 11166 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 10003
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Denmark ; Times: 83
+	Country: France ; Times: 2
+	Country: Germany ; Times: 16
+	Country: Guatemala ; Times: 3
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 35
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 2
+	Date: 2015-06-04 ; Times: 4
+	Date: 2015-06-05 ; Times: 5
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 7
+	Date: 2015-06-09 ; Times: 5
+	Date: 2015-06-10 ; Times: 5
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 6
+	Date: 2015-06-17 ; Times: 3
+	Date: 2015-06-18 ; Times: 2
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 2
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-25 ; Times: 15
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-27 ; Times: 7
+	Date: 2015-06-29 ; Times: 76
+
+List of queries that retrieved data from the resource: 
+	Query: "myzomela" ; Times: 1
+	Query: "aves type:specimen distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "type:specimen AND (aves) distance(location,geopoint(42.73087427928485,-76.2451171875))<100000" ; Times: 1
+	Query: "klages purus" ; Times: 1
+	Query: "solola" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "atitlan" ; Times: 1
+	Query: "Chlorostilbon gibsoni" ; Times: 1
+	Query: "Phaethornis augusti" ; Times: 1
+	Query: "Chlorostilbon maugaeus" ; Times: 1
+	Query: "Tristram" ; Times: 1
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "Orthorhyncus cristatus" ; Times: 2
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "Eriocnemis glaucopoides" ; Times: 1
+	Query: "amazilia franciae" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:henslowii genus:ammodramus" ; Times: 1
+	Query: "Spizella pallida Mexico" ; Times: 2
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "aves Chihuahua" ; Times: 1
+	Query: "Tachycineta albilinea tissue:1" ; Times: 1
+	Query: "Campylopterus ensipennis" ; Times: 1
+	Query: "Lophornis helenae" ; Times: 1
+	Query: "Thalurania colombica" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "aves durango" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "Heliomaster constantii" ; Times: 1
+	Query: "elanus leucurus stateprovince:"California"" ; Times: 1
+	Query: "Phaethornis anthophilus" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "United Arab Emirates" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:caspia genus:sterna" ; Times: 1
+	Query: "Eupherusa eximia" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 1
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "Heliothryx barroti" ; Times: 1
+	Query: "Cercomela familiaris" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "neff" ; Times: 1
+	Query: "Elvira chionura" ; Times: 1
+	Query: "Heliodoxa branickii" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 1
+	Query: "Cynanthus doubledayi" ; Times: 2
+	Query: "Calypte costae" ; Times: 1
+	Query: "Cynanthus latirostris" ; Times: 1
+	Query: "Campylopterus rufus" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "Chlorostilbon stenura" ; Times: 2
+	Query: "Doricha enicura" ; Times: 1
+	Query: "country:"paraguay" class:aves" ; Times: 1
+	Query: "Elvira cupreiceps" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "Mellisuga minima" ; Times: 1
+	Query: "Oxypogon lindenii" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "amazilia cyanocephala" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "Microstilbon burmeisteri" ; Times: 1
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "Lampornis calolaemus" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Thlypopsis sordida brazil" ; Times: 1
+	Query: "family:nectariniidae AND skeleton type:specimen" ; Times: 1
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "Coeligena helianthea" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Columbina passerina tissue:1" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "amazilia cyanura" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Sternoclyta cyanopectus" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "klages 1923" ; Times: 1
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 1
+	Query: "rynchops nigra type:specimen" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "amazilia amabilis" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "family:meliphagidae AND skeleton type:specimen" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Chalcostigma heteropogon" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:aves tissue:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:alba genus:tyto AND (NOT pratincola)" ; Times: 1
+	Query: "aves chihuahua" ; Times: 1
+	Query: "Selasphorus flammula" ; Times: 2
+	Query: "tachycineta albilinea tissue:1" ; Times: 1
+	Query: "tangara chilensis" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "Chaetocercus" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Campylopterus pampa" ; Times: 2
+	Query: "Onychorhynchus" ; Times: 1
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "Basilinna leucotis" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "Damophila julie" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "amazilia candida" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: ""platycichla flavipes" brazil" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Phaethornis yaruqui" ; Times: 1
+	Query: "Lampornis cinereicauda" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 3
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Sirystes brazil" ; Times: 1
+	Query: "Chlorostilbon auriceps" ; Times: 1
+	Query: ""Turdus amaurochalinus" brazil" ; Times: 1
+	Query: "Hylocharis grayi" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2557
+Total number of records retrieved from searches: 24779
+Number of download events that retrieved data from the resource: 431
+Total number of records downloaded: 37818
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2802
+Total number of records retrieved from searches: 27360
+Number of download events that retrieved data from the resource: 735
+Total number of records downloaded: 118291
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
