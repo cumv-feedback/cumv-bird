@@ -1,0 +1,429 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 452
+Number of records retrieved in searches: 3051
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 22
+	Country: Panama ; Times: 1
+	Country: France ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Papua New Guinea ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 311
+	Country: Sweden ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 25
+	Country: Mexico ; Times: 28
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 12
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 7
+	Date: 2015-09-22 ; Times: 17
+	Date: 2015-09-10 ; Times: 23
+	Date: 2015-09-11 ; Times: 13
+	Date: 2015-09-12 ; Times: 6
+	Date: 2015-09-13 ; Times: 3
+	Date: 2015-09-14 ; Times: 59
+	Date: 2015-09-15 ; Times: 24
+	Date: 2015-09-16 ; Times: 21
+	Date: 2015-09-17 ; Times: 18
+	Date: 2015-09-18 ; Times: 6
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-30 ; Times: 17
+	Date: 2015-09-02 ; Times: 18
+	Date: 2015-09-29 ; Times: 17
+	Date: 2015-09-07 ; Times: 9
+	Date: 2015-09-06 ; Times: 4
+	Date: 2015-09-05 ; Times: 21
+	Date: 2015-09-04 ; Times: 9
+	Date: 2015-09-03 ; Times: 16
+	Date: 2015-09-28 ; Times: 21
+	Date: 2015-09-01 ; Times: 24
+	Date: 2015-09-25 ; Times: 15
+	Date: 2015-09-24 ; Times: 17
+	Date: 2015-09-27 ; Times: 5
+	Date: 2015-09-26 ; Times: 16
+	Date: 2015-09-21 ; Times: 3
+	Date: 2015-09-20 ; Times: 14
+	Date: 2015-09-09 ; Times: 7
+	Date: 2015-09-08 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus pennsylvannicus" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Aimophila ruficauda tissue:1" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "perdicula erythrorhyncha" ; Times: 2
+	Query: "topaza pella" ; Times: 1
+	Query: "Spizella pallida from the United States" ; Times: 1
+	Query: "catalognumber:3472 institutioncode:CUMV" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:occurrence:Arctos:CUMV:Bird:19990:2349250&#34; OR &#34;urn:occurrence:Arctos:CUMV:Bird:21481:2257976&#34; OR &#34;0c8132dc-d036-4b20-808b-28465c159ffc&#34; OR &#34;37b64a95-d988-44b1-a8d9-411280b01ae1&#34; OR &#34;urn:occurrence:Arctos:CUMV:Bird:25222:2275844&#34; OR &#34;urn:occurrence:Arctos:CUMV:Bird:25225:2264946&#34; OR &#34;urn:occurrence:Arctos:CUMV:Bird:25241:2264949&#34; OR &#34;urn:occurrence:Arctos:CUMV:Bird:25291:2278179&#34; OR &#34;urn:catalog:CRCM:Birds:07-201&#34; OR &#34;urn:catalog:CRCM:Birds:48-331&#34; OR &#34;urn:catalog:CRCM:Birds:54-298&#34; OR &#34;urn:catalog:CRCM:Birds:56-356&#34; OR &#34;urn:catalog:CRCM:Birds:75-142&#34; OR &#34;urn:catalog:CRCM:Birds:78-399&#34; OR &#34;urn:catalog:CRCM:Birds:78-498&#34; OR &#34;urn:catalog:CRCM:Birds:78-499&#34; OR &#34;urn:catalog:CRCM:Birds:83-253&#34; OR &#34;urn:catalog:CRCM:Birds:86-254&#34; OR &#34;urn:catalog:CRCM:Birds:94-832&#34; OR &#34;urn:catalog:CRCM:Birds:98-3639&#34;" ; Times: 1
+	Query: "genus:Bombycilla stateprovince:&#34;Rhode Island&#34; sex:Male year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "seicercus burkii" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "turdoides gularis" ; Times: 16
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "microstilbon type:specimen" ; Times: 1
+	Query: "Penelope obscura obscura tissue:1" ; Times: 1
+	Query: "family:Tinamidae (egg)" ; Times: 1
+	Query: "phylloscopus griseolus" ; Times: 2
+	Query: "aves california" ; Times: 1
+	Query: "chaetura" ; Times: 1
+	Query: "class:aves stateprovince:california year&gt;1976" ; Times: 7
+	Query: "stateprovince:&#34;North Carolina&#34; country:&#34;united states&#34; specificepithet:henslowii genus:ammodramus" ; Times: 1
+	Query: "catalognumber:1012 institutioncode:CUMV" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "country:&#34;Panama&#34; institutioncode:CUMV" ; Times: 1
+	Query: "type:specimen specificepithet:formosus order:Passeriformes" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML NOT FMNH NOT MLZ NOT UMMZ)" ; Times: 1
+	Query: "catalognumber:7315 institutioncode:CUMV" ; Times: 2
+	Query: "turdoides striatus" ; Times: 2
+	Query: "phaethon" ; Times: 1
+	Query: "Gavia stellata mappable:1" ; Times: 1
+	Query: "Turdus migratorius" ; Times: 5
+	Query: "cardinalis cardinalis type:specimen year &gt;= 1931 year &lt;= 2015 tissue:1" ; Times: 2
+	Query: "Cyanocitta stelleri carlottae" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "audio" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "Colinus virginianus type:specimen tissue:1" ; Times: 1
+	Query: "Aulacorhynchus (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen (tinamus AND egg)" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 28
+	Query: "rhopodytes viridirostris" ; Times: 2
+	Query: "zonotrichia leucophrys" ; Times: 2
+	Query: "Hemipus picatus India" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 2
+	Query: "passerina caerulea" ; Times: 2
+	Query: "HERONS" ; Times: 1
+	Query: "Seiurus aurocapilla" ; Times: 1
+	Query: "Hall Nebraska" ; Times: 4
+	Query: "&#34;B***&#34; &#34;americanus&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Oenanthe picata country:&#34;India&#34;" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia" ; Times: 1
+	Query: "aimophila aestivalis" ; Times: 2
+	Query: "Colinus type:specimen" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 8
+	Query: "corythaeola skin" ; Times: 1
+	Query: "dorsalis type:specimen specificepithet:polychopterus genus:pachyramphus" ; Times: 1
+	Query: "Dendrocopos leucotos" ; Times: 1
+	Query: "find records with" ; Times: 1
+	Query: "Buenos Aires type:specimen year &lt;= 2015" ; Times: 1
+	Query: "Quiscalus quiscula versicolor (skin) male" ; Times: 1
+	Query: "Colinus type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "mummy" ; Times: 10
+	Query: "egg collecting" ; Times: 1
+	Query: "phylloscopus maculipennis" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "Dinopium rafflesii tissue:1" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "Colibri coruscans" ; Times: 6
+	Query: "genus:icterus (melanopsis) AND (NOT film)" ; Times: 1
+	Query: "Cracidae institutioncode:CUMV tissue:1" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "geothlypis trichas type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "EM" ; Times: 4
+	Query: "crypsirina temia" ; Times: 38
+	Query: "monster" ; Times: 18
+	Query: "Peromyscus" ; Times: 1
+	Query: "tachycineta bicolor" ; Times: 1
+	Query: "catalognumber:463 institutioncode:CUMV" ; Times: 1
+	Query: "geococcyx (skel OR skeleton)" ; Times: 2
+	Query: "knipolegus" ; Times: 1
+	Query: "catalognumber:20848 institutioncode:CUMV" ; Times: 2
+	Query: "21878" ; Times: 2
+	Query: "&#34;sylvietta denti&#34; tissue:0" ; Times: 1
+	Query: "type:specimen specificepithet:albogriseus genus:pachyramphus" ; Times: 2
+	Query: "guttatus" ; Times: 1
+	Query: "blue pitta" ; Times: 1
+	Query: "anas strepera" ; Times: 4
+	Query: "Puffinus lherminieri skel*" ; Times: 1
+	Query: "Pyrocephalus rubinus." ; Times: 2
+	Query: "genus:setophaga tissue:1" ; Times: 1
+	Query: "catalognumber:1740 institutioncode:CUMV" ; Times: 1
+	Query: "Pluvialis squatarola" ; Times: 2
+	Query: "zarcero" ; Times: 6
+	Query: "Ficedula parva country:&#34;India&#34;" ; Times: 1
+	Query: "parus xanthogenys" ; Times: 1
+	Query: "perdix (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "emberiza hortulana" ; Times: 1
+	Query: "Trochilidae" ; Times: 1
+	Query: "parvula class:Aves" ; Times: 1
+	Query: "coturnicops" ; Times: 1
+	Query: "rissa brevirostris type:specimen (skin)" ; Times: 1
+	Query: "Agelaius phoeniceus type:specimen country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "black rail" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 1
+	Query: "colibri (skel OR skeleton)" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML NOT FMNH NOT MLZ NOT UMMZ NOT USNM NOT LACM NOT ANSP)" ; Times: 2
+	Query: "colibri" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 4
+	Query: "empidonax flaviventris month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "Cracidae tissue:1" ; Times: 4
+	Query: "specificepithet:fruticeti genus:Phrygilus" ; Times: 2
+	Query: "type:specimen specificepithet:formosus" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;New York&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 1
+	Query: "Monasa type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "Colinus" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri NOT mexico NOT minnesota) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "columbina inca" ; Times: 2
+	Query: "A. H. Wood class:Aves" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;New York&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;New York&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 6 month &lt;= 6 tissue:1" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 2
+	Query: "turdus migratorius" ; Times: 2
+	Query: "genus:megascops tissue:1" ; Times: 2
+	Query: "caracara (skel OR skeleton)" ; Times: 1
+	Query: "vultur" ; Times: 6
+	Query: "setophaga ruticilla tissue:1" ; Times: 1
+	Query: "pycnonotus cafer" ; Times: 6
+	Query: "genus:Thlypopsis tissue:1" ; Times: 1
+	Query: "missouri squirrel" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "Phaethornis longirostris tissue:1" ; Times: 1
+	Query: "empidonax flaviventris tissue:1" ; Times: 1
+	Query: "picus tissue:1" ; Times: 1
+	Query: "Butorides virescens" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT Alaska NOT film) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 2
+	Query: "pavo cristatus" ; Times: 2
+	Query: "&#34;len:&#34;" ; Times: 2
+	Query: "wild rice" ; Times: 1
+	Query: "GUYANA Sakesphorus canadensis" ; Times: 1
+	Query: "specificepithet:asio genus:megascops tissue:1" ; Times: 2
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;New York&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 1
+	Query: "regina tissue:1" ; Times: 1
+	Query: "terpsiphone incei" ; Times: 1
+	Query: "&#34;Archbold Biological Station&#34;" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 4
+	Query: "catalognumber:18705 institutioncode:CUMV" ; Times: 1
+	Query: "Thinocorus (skel OR skeleton)" ; Times: 1
+	Query: "Bangsia" ; Times: 1
+	Query: "CUMV 16243" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.049505705))&lt;10000" ; Times: 1
+	Query: "recording" ; Times: 2
+	Query: "specificepithet:minimus genus:empidonax year &gt;= 1937 year &lt;= 1937" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 2
+	Query: "glyphorhynchus spirurus" ; Times: 2
+	Query: "phylloscopus coronatus" ; Times: 2
+	Query: "specificepithet:phoeniceus genus:Agelaius" ; Times: 1
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "pavo muticus" ; Times: 1
+	Query: "type:specimen genus:Basileuterus mappable:1 tissue:1" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "catalognumber:1745 institutioncode:CUMV" ; Times: 1
+	Query: "melanotrochilus fuscus" ; Times: 7
+	Query: "Colinus leucopogon type:specimen" ; Times: 1
+	Query: "Colinus type:specimen AND (virginianus)" ; Times: 1
+	Query: "gryphus" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT Alaska NOT michigan NOT wisconsin) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "specificepithet:fruticeti genus:Phrygilus tissue:1" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;New York&#34; AND (NOT UAM) month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri NOT mexico NOT minnesota NOT florida NOT louisianna NOT carolina) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "genus:Poospiza tissue:1" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Cisticola exilis country:&#34;india&#34;" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "Chlidonias (skel OR skeleton)" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "catalognumber:3430 institutioncode:CUMV" ; Times: 1
+	Query: "ocampo" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "genus:icterus (melanopsis)" ; Times: 1
+	Query: "Quiscalus quiscula (skin)" ; Times: 1
+	Query: "dendrocopos leucotos" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "&#34;CInclodes antarcticus&#34;" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "bird wings" ; Times: 1
+	Query: "Colinus leucopogon type:specimen AND (NOT cristatus)" ; Times: 1
+	Query: "or.2290" ; Times: 1
+	Query: "catalognumber:302 institutioncode:CUMV" ; Times: 1
+	Query: "catalognumber:7314 institutioncode:CUMV" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "microstilbon" ; Times: 2
+	Query: "colibri coruscans" ; Times: 1
+	Query: "PSM Cardinalis cardinalis" ; Times: 1
+	Query: "Audubon" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 2
+	Query: "uria lomvia type:specimen (skin)" ; Times: 1
+	Query: "Gavia" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT UAM) month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Selasphorus scintilla" ; Times: 1
+	Query: "Penelope obscura" ; Times: 1
+	Query: "(Darien)" ; Times: 1
+	Query: "distance(location,geopoint(28.7802369569,-111.949505705))&lt;10000" ; Times: 1
+	Query: "otus" ; Times: 1
+	Query: "type:specimen genus:Plectrophenax tissue:1" ; Times: 1
+	Query: "missouri" ; Times: 1
+	Query: "heteroxolmis" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 2
+	Query: "lauderdale" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 91 (out of 1045 download events in this period)
+Total number of records downloaded: 14532
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 55
+	Country: Colombia ; Times: 5
+	Country: Thailand ; Times: 4
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 5
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-16 ; Times: 8
+	Date: 2015-09-17 ; Times: 13
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-19 ; Times: 7
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-06 ; Times: 3
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-02 ; Times: 7
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-24 ; Times: 5
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 3
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-22 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "empidonax flaviventris month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "Spizella pallida from the United States" ; Times: 2
+	Query: "oxyruncus" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Cymbilaimus lineatus" ; Times: 2
+	Query: "genus:megascops tissue:1" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "type:specimen class:Aves year &gt;= 1960 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Xiphorhynchus ocellatus" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "microtus pennsylvanicus type:specimen month &gt;= 3 month &lt;= 5 institutioncode:CUMV" ; Times: 1
+	Query: "Batty stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; year &gt;= 1904 year &lt;= 1904 month &gt;= 3 month &lt;= 5" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "turdus fuscater" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "Sporophila" ; Times: 1
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 3
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;New York&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "ploceus type:specimen preparations:nest" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Papua" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 1
+	Query: "country:&#34;United States&#34; class:Aves" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "Cracidae tissue:1" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "genus:Spizella" ; Times: 1
+	Query: "type:specimen genus:Eupetes" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Spizella breweri" ; Times: 1
+	Query: "geothlypis trichas type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "Willisornis poecilinotus" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
