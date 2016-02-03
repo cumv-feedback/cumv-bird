@@ -1,0 +1,341 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 278
+Number of records retrieved in searches: 1751
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: United States ; Times: 188
+	Country: Romania ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 15
+	Country: Singapore ; Times: 3
+	Country: India ; Times: 3
+	Country: Austria ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 13
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Thailand ; Times: 10
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: France ; Times: 5
+	Country: Russia ; Times: 7
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 9
+	Date: 2015-10-14 ; Times: 20
+	Date: 2015-10-15 ; Times: 13
+	Date: 2015-10-12 ; Times: 10
+	Date: 2015-10-13 ; Times: 10
+	Date: 2015-10-10 ; Times: 8
+	Date: 2015-10-11 ; Times: 5
+	Date: 2015-10-18 ; Times: 9
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 13
+	Date: 2015-10-28 ; Times: 20
+	Date: 2015-10-27 ; Times: 17
+	Date: 2015-10-26 ; Times: 8
+	Date: 2015-10-25 ; Times: 3
+	Date: 2015-10-24 ; Times: 7
+	Date: 2015-10-23 ; Times: 11
+	Date: 2015-10-22 ; Times: 6
+	Date: 2015-10-21 ; Times: 7
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-04 ; Times: 7
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 8
+	Date: 2015-10-01 ; Times: 20
+	Date: 2015-10-03 ; Times: 2
+	Date: 2015-10-02 ; Times: 15
+	Date: 2015-10-09 ; Times: 26
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-30 ; Times: 9
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "guttera edouardi year &gt;= 1960" ; Times: 1
+	Query: "chaetura (skel OR skeleton)" ; Times: 2
+	Query: "empidonax extimus" ; Times: 1
+	Query: "dynamicproperties AG" ; Times: 3
+	Query: "(Aves AND (Sabah OR Sarawak))" ; Times: 1
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "Dryocopus lineatus" ; Times: 1
+	Query: "accipiter cooperii" ; Times: 1
+	Query: "Buteo Lineatus" ; Times: 1
+	Query: "pitta sordida tissue:1" ; Times: 1
+	Query: "Pteruthius aenobarbus country:&#34;India&#34;" ; Times: 1
+	Query: "Myiophobus fasciatus" ; Times: 1
+	Query: "&#34;callipepla squamata squamata&#34;" ; Times: 1
+	Query: "Picumnus minutissimus" ; Times: 3
+	Query: "hemitriccus granadensis" ; Times: 1
+	Query: "caracara (skel OR skeleton) sex:female" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 2
+	Query: "francolinus levaillantoides" ; Times: 2
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "nest class:aves" ; Times: 3
+	Query: "fluid preservation" ; Times: 1
+	Query: "pomatorhinus schisticeps" ; Times: 1
+	Query: "Arremon flavirostris" ; Times: 1
+	Query: "Falco sparverius type:specimen" ; Times: 1
+	Query: "paradoxornis poliotis" ; Times: 8
+	Query: "class:aves stateprovince:california year&gt;1976" ; Times: 1
+	Query: "buteo albicaudatus" ; Times: 1
+	Query: "melanoperdix" ; Times: 1
+	Query: "emberiza pallasi" ; Times: 1
+	Query: "Brown Booby" ; Times: 1
+	Query: "Bradley" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 9
+	Query: "Ophisaurus institutioncode:CUMV" ; Times: 1
+	Query: "Motacilla citreola country:&#34;india&#34;" ; Times: 1
+	Query: "monias benschi" ; Times: 1
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "genus:Icteria stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "type:specimen genus:Peltops" ; Times: 1
+	Query: "aves California" ; Times: 1
+	Query: "Guttera year &gt;= 1960" ; Times: 2
+	Query: "virginia rail" ; Times: 1
+	Query: "type:specimen specificepithet:cyanea genus:Passerina year &gt;= 1968 year &lt;= 1975 institutioncode:CUMV" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "casual" ; Times: 2
+	Query: "monster" ; Times: 6
+	Query: "gavia oregon" ; Times: 1
+	Query: "ypm pachyramphus" ; Times: 1
+	Query: "Guttera edouardi year &gt;= 1950" ; Times: 2
+	Query: "mummy" ; Times: 4
+	Query: "cwt" ; Times: 1
+	Query: "Little Gull" ; Times: 4
+	Query: "emberiza melanocephala" ; Times: 6
+	Query: "geothlypis flavovelata institutioncode:CUMV" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "Bird claw" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "sturnella magna type:specimen tissue:1" ; Times: 1
+	Query: "calocitta formosa" ; Times: 2
+	Query: "Poecile (skel OR skeleton) sex:female" ; Times: 2
+	Query: "(hosner PAH)" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris" ; Times: 4
+	Query: "class:Aves country:&#34;Peru&#34; recordedby:Orton" ; Times: 2
+	Query: "paradisaea" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 4
+	Query: "skeleton specificepithet:sandvicensis family:Anatidae" ; Times: 1
+	Query: "(Sabah OR Sarawak)" ; Times: 1
+	Query: "ussheri institutioncode:CUMV" ; Times: 3
+	Query: "Odontophorus capueira" ; Times: 3
+	Query: "Taipaishang china 1905" ; Times: 1
+	Query: "Sclerurus (skel OR skeleton)" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "francolinus icterorhynchus" ; Times: 7
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "Chloroceryle sex:female (skel OR skeleton)" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen media:1" ; Times: 1
+	Query: "(best)" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Lepidocolaptes (skel OR skeleton)" ; Times: 1
+	Query: "circaetus" ; Times: 1
+	Query: "ptilopachus petrosus" ; Times: 4
+	Query: "CUMV Bird 54895" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "podilymbus gigas" ; Times: 2
+	Query: "Cardinalis cardinalis type:specimen tissue:1" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 1
+	Query: "Laridae type:specimen tissue:1" ; Times: 1
+	Query: "geothlypis nelsoni institutioncode:CUMV" ; Times: 1
+	Query: "Cox Island British Columbia" ; Times: 2
+	Query: "castanea" ; Times: 1
+	Query: "columbina inca" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica stateprovince:&#34;new mexico&#34;" ; Times: 3
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "type:specimen genus:Passerina recordedby:Rising institutioncode:CUMV" ; Times: 1
+	Query: "tuxpan veracruz" ; Times: 1
+	Query: "CUMV Bird specimens 50948" ; Times: 1
+	Query: "cumv 15205" ; Times: 1
+	Query: "hosner" ; Times: 1
+	Query: "colinus costa rica" ; Times: 1
+	Query: "Guttera edouardi" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "criniger chloronotus" ; Times: 1
+	Query: "sialia sialis type:specimen tissue:1" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Waterstradt 1902 AND (&#34;Indonesia&#34;)" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "family:Irenidae (Aves AND (Sabah OR Sarawak))" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "turdus chiguanco" ; Times: 1
+	Query: "Guttera year &gt;= 1950" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "dogs" ; Times: 1
+	Query: "specificepithet:kirtlandii stateprovince:&#34;michigan&#34; AND (NOT UMMZ) year &gt;= 1900 year &lt;= 1943" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "cumv 9884" ; Times: 1
+	Query: "preparations:skull" ; Times: 1
+	Query: "archilochus (skel OR skeleton)" ; Times: 5
+	Query: "Selasphorus sasin tissue:1" ; Times: 1
+	Query: "Pipraeidea melanonota type:specimen (weight)" ; Times: 2
+	Query: "Turdus" ; Times: 1
+	Query: "sitta pusilla" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "megalaima rubricapilla" ; Times: 1
+	Query: "carduelis cucullata" ; Times: 8
+	Query: "(strix)" ; Times: 1
+	Query: "aegolius" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 2
+	Query: "Synthliboramphus hypoleucus California" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(40.44694705960048,-89.384765625))&lt;100000" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "pah" ; Times: 2
+	Query: "type:specimen specificepithet:cyanea genus:Passerina institutioncode:CUMV" ; Times: 2
+	Query: "KSB 362" ; Times: 1
+	Query: "myophonus horsfieldii" ; Times: 4
+	Query: "sylvietta denti" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "troglodytes" ; Times: 1
+	Query: "AG" ; Times: 1
+	Query: "Taipaishang china" ; Times: 1
+	Query: "Scolopax minor" ; Times: 2
+	Query: "Selasphorus sasin stateprovince:&#34;California&#34; tissue:1" ; Times: 1
+	Query: "onychognathus institutioncode:CUMV" ; Times: 1
+	Query: "coturnix skeleton" ; Times: 2
+	Query: "Ludlow" ; Times: 2
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "CUMV 54895" ; Times: 1
+	Query: "specificepithet:griseus genus:limnodromus" ; Times: 1
+	Query: "Pteruthius aenobarbus" ; Times: 1
+	Query: "rallus limicola eggs" ; Times: 2
+	Query: "Falco sparverius (skeleton)" ; Times: 1
+	Query: "Macaulay" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Whitely" ; Times: 3
+	Query: "Numida meleagris year &gt;= 1920" ; Times: 1
+	Query: "specificepithet:regulus genus:Regulus tissue:1" ; Times: 1
+	Query: "scolopax minor" ; Times: 2
+	Query: "setophaga ruticilla" ; Times: 1
+	Query: "CUMV 50691" ; Times: 1
+	Query: "distance(location,geopoint(34.718099265398884,-88.77845764160156))&lt;100000" ; Times: 1
+	Query: "Turdus assimilis institutioncode:CUMV" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Sitta pusilla" ; Times: 2
+	Query: "Langara Island" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen tissue:1" ; Times: 1
+	Query: "CUMV Bird specimens 50691" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "turdus migratorius" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 823 download events in this period)
+Total number of records downloaded: 2941
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 4
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 4
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 8
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-07 ; Times: 7
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tangara nigrocincta mappable:1" ; Times: 1
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "(ciccaba)" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "sericocaudatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "sarawak columbidae" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "Coccothraustes abeillei" ; Times: 1
+	Query: "stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Ortalis wagleri" ; Times: 1
+	Query: "Lepidocolaptes leucogaster" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "motacilla citreola" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Harpactes erythrocephalus" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Cox Island British Columbia" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "kangaroo" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "vireo olivaceus type:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 2
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "specificepithet:regulus genus:Regulus tissue:1" ; Times: 1
+	Query: "(Marinkelle)" ; Times: 1
+	Query: "sylhet" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen tissue:1" ; Times: 1
+
+
+End of report.
