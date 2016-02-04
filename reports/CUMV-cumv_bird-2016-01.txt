@@ -1,0 +1,318 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 231
+Number of records retrieved in searches: 1550
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 7
+	Country: Russia ; Times: 15
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 19
+	Country: Puerto Rico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 5
+	Country: Unknown ; Times: 13
+	Country: Switzerland ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: United States ; Times: 142
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 22
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-20 ; Times: 12
+	Date: 2016-01-21 ; Times: 7
+	Date: 2016-01-26 ; Times: 13
+	Date: 2016-01-27 ; Times: 9
+	Date: 2016-01-02 ; Times: 5
+	Date: 2016-01-25 ; Times: 23
+	Date: 2016-01-28 ; Times: 10
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-08 ; Times: 8
+	Date: 2016-01-09 ; Times: 8
+	Date: 2016-01-04 ; Times: 7
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-06 ; Times: 5
+	Date: 2016-01-19 ; Times: 14
+	Date: 2016-01-07 ; Times: 6
+	Date: 2016-01-13 ; Times: 5
+	Date: 2016-01-12 ; Times: 14
+	Date: 2016-01-11 ; Times: 8
+	Date: 2016-01-10 ; Times: 6
+	Date: 2016-01-17 ; Times: 8
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 11
+	Date: 2016-01-14 ; Times: 4
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-03 ; Times: 9
+	Date: 2016-01-18 ; Times: 3
+	Date: 2016-01-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1920 year &lt;= 1920 month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "&#34;Pachyramphus albogriseus&#34;" ; Times: 1
+	Query: "Catharus mexicanus recordedby:Underwood" ; Times: 1
+	Query: "&#34;Passerina versicolor&#34; type:specimen" ; Times: 1
+	Query: "genus:Ictinia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:lugubris genus:Surniculus tissue:1" ; Times: 1
+	Query: "aix sponsa" ; Times: 1
+	Query: "cumv 712" ; Times: 1
+	Query: "eggs minnesota bird" ; Times: 2
+	Query: "Pheucticus tibialis type:specimen" ; Times: 1
+	Query: "cathartes aura" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "syndactyla subalaris" ; Times: 1
+	Query: "Vireo pallens" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 1
+	Query: "Picumnus minutissimus" ; Times: 8
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "type:specimen order:psittaciformes (Agapornis taranta)" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "selasphorus AND (NOT rufus NOT platycercus) mappable:1" ; Times: 1
+	Query: "ANAS PLATYRHYNCHOS" ; Times: 1
+	Query: "Platylophus tissue:1" ; Times: 3
+	Query: "Aimophila" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "skin genus:Bangsia sex:male" ; Times: 1
+	Query: "type:specimen specificepithet:crissalis genus:Pipilo sex:Male institutioncode:CUMV" ; Times: 1
+	Query: "class:aves stateprovince:california year&gt;1976" ; Times: 1
+	Query: "Tachycineta bicolor 51589" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Thraupidae country:&#34;United States&#34; AND (Piranga)" ; Times: 1
+	Query: "Lacedo" ; Times: 2
+	Query: "Platylophus" ; Times: 1
+	Query: "specificepithet:rufum genus:Conirostrum" ; Times: 1
+	Query: "sutton genus:otus class:aves country:&#34;mexico&#34;" ; Times: 1
+	Query: "blue wing" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett institutioncode:CUMV" ; Times: 1
+	Query: "class:Aves stateprovince:California" ; Times: 1
+	Query: "henicorhina leucophrys" ; Times: 2
+	Query: "Colombia class:Aves" ; Times: 1
+	Query: "albania" ; Times: 1
+	Query: "type:specimen (Acanthidops)" ; Times: 1
+	Query: "type:specimen genus:Metriopelia preparations:wing" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;bahia&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "poospiza nigrorufa cumv" ; Times: 1
+	Query: "Tree Swallow" ; Times: 2
+	Query: "cumv 854" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "asio" ; Times: 1
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "gorsachius" ; Times: 1
+	Query: "blood sample" ; Times: 1
+	Query: "specificepithet:baeri genus:poospiza tissue:1" ; Times: 1
+	Query: "cumv 1260" ; Times: 1
+	Query: "Geothlypis aequinoctialis brazil" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;BAHIA&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen class:insecta" ; Times: 1
+	Query: "Setophaga type:specimen" ; Times: 1
+	Query: "Bolborhynchus" ; Times: 1
+	Query: "Falco naumanni" ; Times: 1
+	Query: "monster" ; Times: 11
+	Query: "class:aves stateprovince:california" ; Times: 3
+	Query: "type:specimen (Acanthidops bairdii)" ; Times: 1
+	Query: "CUMV-50482" ; Times: 1
+	Query: "dendroica petechia" ; Times: 1
+	Query: "type:specimen county:&#34;Honolulu County&#34; stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "university of texas" ; Times: 1
+	Query: "wilsonia pusilla (alaska) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Auburn" ; Times: 1
+	Query: "&#34;stomach contents&#34; class:Aves" ; Times: 1
+	Query: "Cyphorhinus tissue:1" ; Times: 1
+	Query: "pyrocephalus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;oklahoma&#34; year &gt;= 1914 year &lt;= 1914" ; Times: 1
+	Query: "junco" ; Times: 1
+	Query: "Laterallus leucopyrrhus ypm" ; Times: 1
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "Thraupidae type:specimen" ; Times: 1
+	Query: "locality:Cana Brava stateprovince:&#34;Goias&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cumv 837" ; Times: 2
+	Query: "picoides" ; Times: 3
+	Query: "dicrurus leucophaeus india" ; Times: 1
+	Query: "ISM" ; Times: 1
+	Query: "skin genus:Acanthidops sex:male" ; Times: 1
+	Query: "Tachycineta bicolor nest 37714" ; Times: 1
+	Query: "skin genus: Phrygilus sex:male" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "cumv 8235" ; Times: 2
+	Query: "Pionus sordidus" ; Times: 1
+	Query: "cumv 8233" ; Times: 1
+	Query: "Cyanolyca nana" ; Times: 7
+	Query: "specificepithet:auritus genus:Podiceps" ; Times: 1
+	Query: "oseryi" ; Times: 1
+	Query: "stateprovince:&#34;Kansas&#34; year &gt;= 2005 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "(Pipra isidorei)" ; Times: 2
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Alberta Canada aves 2005-2015" ; Times: 1
+	Query: "selasphorus AND (NOT rufus OR platycercus) mappable:1" ; Times: 1
+	Query: "Colombia (Egg)" ; Times: 1
+	Query: "Henicorhina leucosticta pittieri" ; Times: 1
+	Query: "Psaltriparus minimus" ; Times: 1
+	Query: "selasphorus AND (NOT rufus) mappable:1" ; Times: 1
+	Query: "connecticut" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 1
+	Query: "(oxyruncus)" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;oklahoma&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "asio otus" ; Times: 5
+	Query: "Accipiter striatus" ; Times: 2
+	Query: "otus asio" ; Times: 1
+	Query: "San Benito Islands" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "Rhipidura rufifrons tissue:1" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "Colombia" ; Times: 1
+	Query: "Quiscalus quiscula quiscula (skin)" ; Times: 1
+	Query: "country:&#34;colombia&#34; (pipra)" ; Times: 1
+	Query: "Tachycineta bicolor nest" ; Times: 1
+	Query: "Passer domesticus united states" ; Times: 1
+	Query: "egg country:&#34;Colombia&#34;" ; Times: 2
+	Query: "terpsiphone paradisi india" ; Times: 1
+	Query: "Pachycephala arctitorquis" ; Times: 1
+	Query: "septentrionalis oklahoma" ; Times: 1
+	Query: "Tachycineta bicolor 48354" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett AND (NOT lacm NOT dmns) year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "&#34;Thamnophilus caerulescens&#34;" ; Times: 1
+	Query: "petechia" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Cardinalis sex:Male preparations:Skin" ; Times: 1
+	Query: "class:aves (&#34;Catharus fuscescens&#34;)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett AND (NOT lacm NOT dmns NOT mvz NOT psm NOT ummz NOT WFVZ) year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "Alberta Canada bird 2005-2015" ; Times: 1
+	Query: "&#34;Pachyramphus versicolor&#34;" ; Times: 1
+	Query: "nuts" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "locality:Cana Brava country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:carolinus genus:melanerpes class:Aves stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:haliaeetus" ; Times: 1
+	Query: "Auburn University" ; Times: 1
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 18
+	Query: "cumv 397" ; Times: 1
+	Query: "selasphorus" ; Times: 1
+	Query: "2135" ; Times: 1
+	Query: "specificepithet:fuertesi genus:icterus" ; Times: 1
+	Query: "type:specimen genus:bubo tissue:1" ; Times: 1
+	Query: "piranga ludoviciana" ; Times: 1
+	Query: "Tachycineta bicolor nest 48611" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "cumv 720" ; Times: 1
+	Query: "Aimophila ruficauda" ; Times: 2
+	Query: "oriolus kundoo" ; Times: 1
+	Query: "stateprovince:&#34;Guerrero&#34;" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "cumv 728" ; Times: 1
+	Query: "turdus migratorius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 507 download events in this period)
+Total number of records downloaded: 8738
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 56
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 5
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-01 ; Times: 15
+	Date: 2016-01-02 ; Times: 20
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-25 ; Times: 7
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;United States&#34;" ; Times: 2
+	Query: "Temnurus temnurus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "Anabacerthia striaticollis" ; Times: 1
+	Query: "&#34;Pseudocolaptes boissonneautii&#34;" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "wilsonia pusilla month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "&#34;Hemispingus frontalis&#34;" ; Times: 1
+	Query: "&#34;Masius chrysopterus&#34;" ; Times: 1
+	Query: "&#34;Thraupis cyanocephala&#34;" ; Times: 1
+	Query: "&#34;aves&#34; and &#34;Michoacan&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "&#34;Margarornis squamiger&#34;" ; Times: 1
+	Query: "skin genus: Mitrospingus sex:male" ; Times: 1
+	Query: "&#34;Tangara vassorii&#34;" ; Times: 1
+	Query: "&#34;Pachyramphus albogriseus&#34;" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "&#34;Pachyramphus versicolor&#34;" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "skin genus: Lanio sex:male" ; Times: 1
+	Query: "&#34;Lepidocolaptes lacrymiger&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Struthio type:specimen (alcohol OR fluid OR alcoholic OR ethanol)" ; Times: 1
+	Query: "&#34;Euphonia xanthogaster&#34;" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "skin genus: Melanodera sex:male" ; Times: 1
+	Query: "&#34;Myioborus miniatus&#34;" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: "&#34;Trogon personatus&#34;" ; Times: 1
+	Query: "&#34;Hemispingus superciliaris&#34;" ; Times: 1
+	Query: "skin genus: Tersina sex:male" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "&#34;Xenops rutilans&#34;" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "skin genus: Iridosornis sex:male" ; Times: 1
+	Query: "&#34;Platyrinchus mystaceus&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "skin genus: Coryphospingus sex:male" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Syndactyla rufosuperciliata&#34;" ; Times: 1
+	Query: "&#34;Coeligena coeligena&#34;" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "&#34;Premnoplex brunnescens&#34;" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "&#34;Pipreola arcuata&#34;" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "&#34;Contopus fumigatus&#34;" ; Times: 1
+	Query: "&#34;Myrmotherula schisticolor&#34;" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "&#34;Tangara xanthocephala&#34;" ; Times: 1
+
+
+End of report.
