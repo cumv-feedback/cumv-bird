@@ -1,0 +1,198 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 959
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 4
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 65
+	Country: Russia ; Times: 8
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 5
+	Date: 2016-03-02 ; Times: 13
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-01 ; Times: 20
+	Date: 2016-03-08 ; Times: 13
+	Date: 2016-03-09 ; Times: 8
+	Date: 2016-03-06 ; Times: 9
+	Date: 2016-03-14 ; Times: 5
+	Date: 2016-03-04 ; Times: 6
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 7
+	Date: 2016-03-03 ; Times: 8
+	Date: 2016-03-13 ; Times: 11
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sheldon" ; Times: 2
+	Query: "WILLETT" ; Times: 1
+	Query: "Falco sparverius type:specimen" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 2
+	Query: "calvert" ; Times: 1
+	Query: "sittasomus mappable:1" ; Times: 1
+	Query: "Columba" ; Times: 1
+	Query: "petechia cuba" ; Times: 1
+	Query: "endangered" ; Times: 1
+	Query: "class:Aves country:&#34;Norway&#34; year &gt;= 1995 year &lt;= 2011 tissue:1" ; Times: 1
+	Query: "Crotophaga major (bill)" ; Times: 1
+	Query: "(sterna paradisaea) year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:california year&gt;1976" ; Times: 3
+	Query: "monterrey distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "diglossa baritula" ; Times: 2
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Falco columbarius (TARSUS)" ; Times: 1
+	Query: "alcedo" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax country:&#34;colombia&#34;" ; Times: 2
+	Query: "Caprimulgus tristigma" ; Times: 1
+	Query: "McCarty" ; Times: 1
+	Query: "Aves Costa Rica" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "perdix minnesota" ; Times: 1
+	Query: "eudynamys scolopacea india" ; Times: 1
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 1
+	Query: "monterrey" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "clo" ; Times: 1
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "Essex" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aves CUMV 127" ; Times: 1
+	Query: "genus:Regulus satrapa mappable:1" ; Times: 1
+	Query: "(Colombia)" ; Times: 1
+	Query: "Picidae (skull)" ; Times: 2
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "genus:Regulus mappable:1" ; Times: 1
+	Query: "elaenia" ; Times: 1
+	Query: "dna" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "catharus guttatus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (clutch OR egg OR eggs)" ; Times: 4
+	Query: "bonasa umbellus year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "volcan baru" ; Times: 1
+	Query: "&#34;Amazilia violiceps&#34; AND weight" ; Times: 1
+	Query: "striata country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8 institutioncode:CUMV" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "&#34;Caprimulgus tristigma&#34;" ; Times: 1
+	Query: "dicrurus adsimilis" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "synallaxis type:specimen tissue:1" ; Times: 1
+	Query: "lichen" ; Times: 1
+	Query: "bombycilla cedrorum" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 2
+	Query: "diglossa sittoides" ; Times: 5
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 2
+	Query: "Passerculus sandwichensis (bill)" ; Times: 2
+	Query: "Ammodramus henslowii (virginia)" ; Times: 1
+	Query: "Celeus flavescens brazil" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "archbold" ; Times: 1
+	Query: "carpodacus mexicanus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "petechia country:&#34;cuba&#34;" ; Times: 1
+	Query: "megalaima viridis" ; Times: 1
+	Query: "(sterna paradisaea) year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Aves county:&#34;Oswego&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Norway&#34; year &gt;= 1995 year &lt;= 2011" ; Times: 1
+	Query: "Nebraska" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "distance(location,geopoint(25.942239101010102,-100.16279339790344))&lt;100000" ; Times: 1
+	Query: "Limnodromus scolopaceus (British Columbia)" ; Times: 1
+	Query: "otus tissue:1" ; Times: 1
+	Query: "type:specimen recordedby:mccarty" ; Times: 1
+	Query: "genus:Carpodacus" ; Times: 1
+	Query: "genus:sterna (sterna paradisaea) year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Oriolus xanthornus" ; Times: 1
+	Query: "clamator jacobinus india" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 230 download events in this period)
+Total number of records downloaded: 153108
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 54
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-01 ; Times: 7
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "type:specimen tissue:1" ; Times: 2
+	Query: "&#34;Amazilia violiceps&#34; AND weight" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "volcan baru" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "Ardeidae Costa Rica" ; Times: 1
+
+
+End of report.
