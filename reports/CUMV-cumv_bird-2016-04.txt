@@ -1,0 +1,510 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 733
+Number of records retrieved in searches: 5048
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 107
+	Country: Brazil ; Times: 34
+	Country: Russia ; Times: 33
+	Country: Netherlands ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 74
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 411
+	Country: Germany ; Times: 10
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 28
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Norway ; Times: 3
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 3
+	Date: 2016-04-28 ; Times: 11
+	Date: 2016-04-07 ; Times: 22
+	Date: 2016-04-06 ; Times: 23
+	Date: 2016-04-05 ; Times: 34
+	Date: 2016-04-04 ; Times: 21
+	Date: 2016-04-21 ; Times: 41
+	Date: 2016-04-20 ; Times: 41
+	Date: 2016-04-09 ; Times: 26
+	Date: 2016-04-08 ; Times: 21
+	Date: 2016-04-25 ; Times: 19
+	Date: 2016-04-24 ; Times: 24
+	Date: 2016-04-27 ; Times: 41
+	Date: 2016-04-26 ; Times: 26
+	Date: 2016-04-22 ; Times: 26
+	Date: 2016-04-18 ; Times: 21
+	Date: 2016-04-19 ; Times: 17
+	Date: 2016-04-14 ; Times: 44
+	Date: 2016-04-15 ; Times: 19
+	Date: 2016-04-16 ; Times: 11
+	Date: 2016-04-17 ; Times: 34
+	Date: 2016-04-10 ; Times: 16
+	Date: 2016-04-11 ; Times: 52
+	Date: 2016-04-12 ; Times: 46
+	Date: 2016-04-13 ; Times: 58
+	Date: 2016-04-03 ; Times: 15
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-23 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:discolor genus:dendroica month &gt;= 3 mappable:1" ; Times: 1
+	Query: "Auriparus type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 4
+	Query: "Royal Ontario Museum" ; Times: 2
+	Query: "(reddington)" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 4
+	Query: "MYIOBIUS ATRICAUDUS" ; Times: 4
+	Query: "distance(location,geopoint(31.639036,-106.217516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 6 mappable:1" ; Times: 1
+	Query: "Starnoenas cyanocephala" ; Times: 2
+	Query: "Dumetella carolinensis (British Columbia)" ; Times: 1
+	Query: "44549 type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "55593 type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "sialia sialis" ; Times: 2
+	Query: "recurvirostra" ; Times: 1
+	Query: "Riparia riparia" ; Times: 4
+	Query: "Agelaius phoeniceus" ; Times: 1
+	Query: "specificepithet:discolor genus:Dendroica mappable:1" ; Times: 1
+	Query: "arinae" ; Times: 1
+	Query: "goudoti" ; Times: 1
+	Query: "Phoenicopterus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo" ; Times: 1
+	Query: "CUMV AND Santa Catalina Island" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "jay" ; Times: 1
+	Query: "&#34;vermivora bachmanii&#34;" ; Times: 1
+	Query: "dubusia taeniata" ; Times: 1
+	Query: "colibri" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "stateprovince:&#34;oklahoma&#34; institutioncode:CUMV" ; Times: 1
+	Query: "CUMV AND Santa Rosa Island" ; Times: 1
+	Query: "CUMV 12925" ; Times: 1
+	Query: "family:Picidae preparations:skeleton" ; Times: 1
+	Query: "Contopus sordidulus Alberta" ; Times: 1
+	Query: "pyrrhura molinae" ; Times: 7
+	Query: "biological survey" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:euchrysea genus:Tachycineta" ; Times: 2
+	Query: "San Nicolas Island AND 1898" ; Times: 2
+	Query: "family:Cathartidae country:&#34;Colombia&#34;" ; Times: 5
+	Query: "violacea" ; Times: 1
+	Query: "Dendroica nigrescens" ; Times: 1
+	Query: "Pyrrhura" ; Times: 3
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "MINNESOTA" ; Times: 1
+	Query: "Petrochelidon pyrrhonota" ; Times: 2
+	Query: "Lakhimpur 1904" ; Times: 1
+	Query: "type:specimen genus:Passer tissue:1" ; Times: 2
+	Query: "Starnoenas cyanocephala institutioncode:CUMV" ; Times: 2
+	Query: "Seicercus poliogenys" ; Times: 4
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "skin type:specimen specificepithet:albifrons genus:Donacospiza sex:male" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "type:specimen genus:Starnoenas" ; Times: 1
+	Query: "Oceanodroma leucorhoa" ; Times: 1
+	Query: "pitta brachyura" ; Times: 1
+	Query: "specificepithet:otus genus:asio class:aves stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "phoebastria year &gt;= 2000" ; Times: 2
+	Query: "Diglossa baritula" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "Dendroica tigrina" ; Times: 2
+	Query: "Amazona viridigenalis" ; Times: 2
+	Query: "stateprovince:&#34;Iowa&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Xenicus longipes" ; Times: 1
+	Query: "myiarchus tuberculifer" ; Times: 6
+	Query: "46748" ; Times: 1
+	Query: "stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34;" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "blackberry" ; Times: 1
+	Query: "euscarthmus meloryphus" ; Times: 3
+	Query: "class:aves stateprovince:california" ; Times: 174
+	Query: "loxia curvirostra" ; Times: 2
+	Query: "ONTARIO 1" ; Times: 16
+	Query: "Accipiter striatus 1" ; Times: 3
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Vanellus cinereus" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 2
+	Query: "arremon institutioncode:CUMV" ; Times: 1
+	Query: "Cacicus melanicterus tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "genus:Colaptes stateprovince:&#34;Arizona&#34; tissue:1" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:davis" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "odontophoridae" ; Times: 1
+	Query: "ONTARIO" ; Times: 16
+	Query: "pycnonotus leucogenys india" ; Times: 1
+	Query: "Agelaius phoeniceus Florida orange County" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "beetle" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo preparations:skin" ; Times: 1
+	Query: "tachycineta euchrysea" ; Times: 1
+	Query: "eubucco bourcierii country:&#34;Colombia&#34; year &gt;= 1950 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "family:Cracidae order:Galliformes country:&#34;Mexico&#34;" ; Times: 2
+	Query: "icterus gularis" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 19
+	Query: "Contopus virens Ontario" ; Times: 10
+	Query: "pachyramphus aglaiae" ; Times: 2
+	Query: "1955 Williams Kenya" ; Times: 1
+	Query: "pnoepyga albiventer" ; Times: 1
+	Query: "county:&#34;Madison&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "passer domesticus tissue:1" ; Times: 2
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "Agelaius phoeniceus Florida Brevard County" ; Times: 1
+	Query: "tuxpan" ; Times: 1
+	Query: "Petrochelidon pyrrhonota type:specimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; institutioncode:CUMV" ; Times: 1
+	Query: "riparia riparia" ; Times: 4
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 1995 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "(rubus) mappable:1" ; Times: 1
+	Query: "monster" ; Times: 19
+	Query: "Megascops nudipes" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "specificepithet:major genus:Parus tissue:1" ; Times: 1
+	Query: "Parabuteo" ; Times: 1
+	Query: "Agelaius phoeniceus Florida Dade County" ; Times: 1
+	Query: "sturnus contra india" ; Times: 1
+	Query: "rIPARIA RIPARIA" ; Times: 1
+	Query: "type:specimen genus:Passer AND (domesticus) tissue:1" ; Times: 1
+	Query: "free" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 1
+	Query: "sitta canadensis" ; Times: 2
+	Query: "Phoebastria immutabilis tissue:1" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "phoebastria" ; Times: 4
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1890 year &lt;= 1900 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-111.997516))&lt;15000" ; Times: 1
+	Query: "colaptes tissue:1" ; Times: 2
+	Query: "skin type:specimen specificepithet:speculiferus genus:Nesospingus sex:male" ; Times: 1
+	Query: "type:specimen specificepithet:euchrysea genus:Tachycineta mappable:1" ; Times: 3
+	Query: "gallinula chloropus" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 9
+	Query: "Cyornis tissue:1" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 3
+	Query: "flicker" ; Times: 1
+	Query: "county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:virens genus:Dendroica year &gt;= 1985 year &lt;= 2016 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Hirundo rustica  Ontario" ; Times: 10
+	Query: "stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Irena puella tissue:1" ; Times: 1
+	Query: "CUMV 13267" ; Times: 2
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "puffinus pacificus tissue:1" ; Times: 2
+	Query: "eubucco bourcierii country:&#34;Colombia&#34;" ; Times: 2
+	Query: "pteroglossus aracari type:specimen" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "107 ONTARIO 1" ; Times: 1
+	Query: "locality:Serinsim" ; Times: 1
+	Query: "Minatitlan -Colima" ; Times: 3
+	Query: "Egretta caerulea" ; Times: 1
+	Query: "Wright AND 1916 AND Island" ; Times: 1
+	Query: "Ammodramus savannarum dakota" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.107516))&lt;15000" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "population data" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "type:specimen (salvaged)" ; Times: 1
+	Query: "specificepithet:discolor genus:Dendroica month &gt;= 1 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "Pyrrhura molinae" ; Times: 1
+	Query: "type:specimen media:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "sylvietta denti" ; Times: 1
+	Query: "CUMV 13965" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "ontario" ; Times: 4
+	Query: "sterna paradisaea" ; Times: 1
+	Query: "starnoenas" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Baeolophus" ; Times: 1
+	Query: "5363 cumv" ; Times: 1
+	Query: "Larus AND San Clemente Island" ; Times: 1
+	Query: "phoebastria type:specimen year &gt;= 2000" ; Times: 2
+	Query: "Troglodytes aedon" ; Times: 1
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 3
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "San Nicolas Island AND 1909" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.277516))&lt;15000" ; Times: 1
+	Query: "michigan year &gt;= 1912 year &lt;= 1928" ; Times: 2
+	Query: "Semnornis ramphastinus" ; Times: 1
+	Query: "type:specimen genus:ara (militaris)" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Wright AND 1916" ; Times: 1
+	Query: "Otus" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 3
+	Query: "class:aves catalognumber:41515" ; Times: 1
+	Query: "specificepithet:vespertinus genus:Coccothraustes" ; Times: 1
+	Query: "genus:asthenes tissue:1" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ornithion" ; Times: 1
+	Query: "colaptes" ; Times: 1
+	Query: "CUMV AND San Miguel Island" ; Times: 1
+	Query: "specificepithet:bachmanii genus:Vermivora" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1935 mappable:1" ; Times: 1
+	Query: "Hirundo rustica  ONTARIO 1" ; Times: 2
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 3
+	Query: "melospiza melodia" ; Times: 2
+	Query: "1900 Jackson" ; Times: 3
+	Query: "mimus saturninus" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "23326 type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "Bucephala albeola" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2005 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "Arremon flavirostris" ; Times: 1
+	Query: "magnolia (dendroica OR setophaga) institutioncode:CUMV" ; Times: 1
+	Query: "Colombia" ; Times: 1
+	Query: "Buteo lineatus Ontario" ; Times: 10
+	Query: "regulus satrapa" ; Times: 1
+	Query: "55541 type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:immutabilis genus:Phoebastria tissue:1" ; Times: 1
+	Query: "genus:hemitriccus tissue:1" ; Times: 1
+	Query: "Psaltria institutioncode:CUMV" ; Times: 1
+	Query: "troglodytes aedon" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;seneca&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "nuevo leon" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "Monkey" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "Copsychus malabaricus tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "44528 type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "CICCABA ALBITARSUS" ; Times: 7
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "colaptes genus:Colaptes family:Picidae order:Piciformes class:Aves stateprovince:&#34;Arizona&#34; tissue:1" ; Times: 1
+	Query: "class:aves catalognumber:26819" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 3
+	Query: "Tyto AND Island" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Pachyramphus validus" ; Times: 1
+	Query: "myrmeciza longipes type:specimen sex:female" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "1 ONTARIO 1" ; Times: 3
+	Query: "26214" ; Times: 1
+	Query: "Bird skins" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "egretta caerulea" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta" ; Times: 1
+	Query: "CUMV AND Santa Cruz Island" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 5
+	Query: "class:aves catalognumber:23552" ; Times: 1
+	Query: "santa maria" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica tissue:1" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "genus:Coccothraustes" ; Times: 1
+	Query: "Agelaius phoeniceus Florida nassau County" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "specificepithet:castanea genus:Dendroica tissue:1" ; Times: 1
+	Query: "Puffinus Pacificus tissue:1" ; Times: 1
+	Query: "schiffornis virescens" ; Times: 2
+	Query: "pachyramphus aglaiae costa rica" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "CUMV AND San Nicolas Island AND California" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1955 mappable:1" ; Times: 2
+	Query: "scytalopus stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34;" ; Times: 3
+	Query: "type:specimen specificepithet:cyaneoviridis genus:Tachycineta" ; Times: 2
+	Query: "type:specimen class:Aves county:&#34;Wyoming&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "podilymbus gigas" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;genesee&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "A-473" ; Times: 2
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "Euphagus carolinus Ontario" ; Times: 10
+	Query: "eubucco bourcierii country:&#34;Colombia&#34; year &gt;= 1900 year &lt;= 1969" ; Times: 1
+	Query: "pinus" ; Times: 1
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "Puffinus pacificus tissue:1" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;virginia&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "Mobile Alabama" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "myiobius atricaudus" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "polychopterus dorsalis" ; Times: 1
+	Query: "Hirundo rustica  Ontario 1" ; Times: 1
+	Query: "Wright AND Santa Barbara Island" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 2
+	Query: "26505 type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "Aquila chrysaetos Ontario" ; Times: 10
+	Query: "Troglodytes aedon tissue:1" ; Times: 1
+	Query: "gallinula chloropus skeleton" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.387516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 1
+	Query: "Jackson 1917 Africa" ; Times: 1
+	Query: "Puffinus newelli tissue:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 6 mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 102 (out of 1312 download events in this period)
+Total number of records downloaded: 29745
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: United States ; Times: 81
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 3
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 25
+	Date: 2016-04-20 ; Times: 12
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-08 ; Times: 5
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 8
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 10
+	Date: 2016-04-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Picidae mappable:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 6 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Phoenicopterus type:specimen tissue:1" ; Times: 1
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "class:Aves country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "Seicercus poliogenys" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Passeridae Arizona" ; Times: 1
+	Query: "Minnesota Point" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "class:aves" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;seneca&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 1995 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1890 year &lt;= 1900 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:euchrysea genus:Tachycineta mappable:1" ; Times: 1
+	Query: "terpsiphone mutata" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 6 mappable:1" ; Times: 2
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "phoebastria" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "Melierax gabar" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "class:Aves locality:San Antonio country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 1
+	Query: "magnolia (dendroica OR setophaga) institutioncode:CUMV" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "colaptes genus:Colaptes family:Picidae order:Piciformes class:Aves stateprovince:&#34;Arizona&#34; tissue:1" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:euchrysea genus:Tachycineta" ; Times: 1
+	Query: "Puffinus Pacificus tissue:1" ; Times: 1
+	Query: "Poospiza nigrorufa" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Wyoming&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;genesee&#34; stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "eubucco bourcierii country:&#34;Colombia&#34; year &gt;= 1900 year &lt;= 1969" ; Times: 1
+	Query: "Doricha eliza" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+
+
+End of report.
