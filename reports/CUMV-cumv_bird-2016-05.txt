@@ -1,0 +1,188 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 1291
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 5
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 94
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 10
+	Country: Denmark ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 7
+	Date: 2016-05-17 ; Times: 3
+	Date: 2016-05-16 ; Times: 6
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 6
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-11 ; Times: 9
+	Date: 2016-05-10 ; Times: 3
+	Date: 2016-05-31 ; Times: 17
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 7
+	Date: 2016-05-01 ; Times: 4
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 6
+	Date: 2016-05-04 ; Times: 7
+	Date: 2016-05-06 ; Times: 2
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 23
+	Date: 2016-05-27 ; Times: 3
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 7
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-21 ; Times: 3
+	Date: 2016-05-28 ; Times: 4
+	Date: 2016-05-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "university of minnesota" ; Times: 1
+	Query: "CUMV 14928" ; Times: 2
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "lonchura nana" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 7
+	Query: "louisiana state university" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Corvus africa skeleton" ; Times: 1
+	Query: "ivory" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "iceland 1929 egg" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 2
+	Query: "Empidonax flaviventris egg" ; Times: 1
+	Query: "vermivora" ; Times: 2
+	Query: "Anas acuta AND hybrid" ; Times: 1
+	Query: "salpinctes" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "Numida tissue:1" ; Times: 1
+	Query: "Coccyzus erythropthalmus tissue:1" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "dendroica nigrescens" ; Times: 1
+	Query: "myioborus ornatus" ; Times: 1
+	Query: "Myzomela eichhorni" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Amazona tissue:1" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 2
+	Query: "university of michigan" ; Times: 1
+	Query: "Kenopia" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "Campephilus principalis" ; Times: 9
+	Query: "colinus virginianus" ; Times: 1
+	Query: "type:specimen specificepithet:sulphurescens genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sturnella magna magna" ; Times: 1
+	Query: "type:specimen genus:Cotinga catalognumber:7252 institutioncode:CUMV" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "Taylors Bridge" ; Times: 3
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Coccyzus americanus tissue:1" ; Times: 1
+	Query: "CUMV 14927" ; Times: 1
+	Query: "galbula tombacea" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "Ardea herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "hawk" ; Times: 2
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "Anas discors AND hybrid" ; Times: 1
+	Query: "San Louis arizona" ; Times: 1
+	Query: "Aythya americana AND hybrid" ; Times: 1
+	Query: "catalognumber:15169 institutioncode:CUMV" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "blood" ; Times: 2
+	Query: "numenius borealis" ; Times: 1
+	Query: "Texas Brewster type:specimen genus:vireo class:Aves" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "Melanerpes aurifrons" ; Times: 1
+	Query: "Ardea AND Island" ; Times: 1
+	Query: "Halcyon albiventris Kenya" ; Times: 1
+	Query: "Lampornis calolaemus" ; Times: 2
+	Query: "Colombia" ; Times: 3
+	Query: "class:aves stateprovince:california" ; Times: 31
+	Query: "Galbula tombacea type:specimen country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Passer domesticus" ; Times: 4
+	Query: "Larus minutus stateprovince:&#34;New York&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Vermivora peregrina" ; Times: 2
+	Query: "Ardea herodias herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 327 download events in this period)
+Total number of records downloaded: 5603
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 4
+	Country: China ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-17 ; Times: 3
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "striata stateprovince:&#34;Manitoba&#34; (setophaga OR dendroica) institutioncode:CUMV" ; Times: 1
+
+
+End of report.
