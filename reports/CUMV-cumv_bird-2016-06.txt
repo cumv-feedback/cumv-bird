@@ -1,0 +1,437 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 517
+Number of records retrieved in searches: 3034
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 29
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 47
+	Country: Mexico ; Times: 69
+	Country: Unknown ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 328
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 8
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 1
+	Date: 2016-06-24 ; Times: 17
+	Date: 2016-06-23 ; Times: 28
+	Date: 2016-06-08 ; Times: 22
+	Date: 2016-06-21 ; Times: 20
+	Date: 2016-06-20 ; Times: 39
+	Date: 2016-06-05 ; Times: 18
+	Date: 2016-06-04 ; Times: 22
+	Date: 2016-06-07 ; Times: 18
+	Date: 2016-06-06 ; Times: 8
+	Date: 2016-06-01 ; Times: 29
+	Date: 2016-06-03 ; Times: 14
+	Date: 2016-06-02 ; Times: 35
+	Date: 2016-06-09 ; Times: 17
+	Date: 2016-06-22 ; Times: 15
+	Date: 2016-06-18 ; Times: 12
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-16 ; Times: 37
+	Date: 2016-06-17 ; Times: 21
+	Date: 2016-06-14 ; Times: 50
+	Date: 2016-06-15 ; Times: 20
+	Date: 2016-06-12 ; Times: 6
+	Date: 2016-06-13 ; Times: 20
+	Date: 2016-06-10 ; Times: 29
+	Date: 2016-06-11 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fish" ; Times: 2
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "YPM pachyramphus polychopterus" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 4
+	Query: "class:aves stateprovince:&#34;illinois&#34; preparations:egg" ; Times: 1
+	Query: "26378" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "aphelocoma wollweberi" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "Coturnicops noveboracensis new york" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "1831" ; Times: 1
+	Query: "nebraska" ; Times: 1
+	Query: "1909-8-28 AND San Clemente Island" ; Times: 1
+	Query: "setophaga ruticilla type:specimen tissue:1" ; Times: 5
+	Query: "(margarobyas OR gymnoglaux)" ; Times: 1
+	Query: "cumv 12522" ; Times: 2
+	Query: "Contopus sordidulus Alberta" ; Times: 2
+	Query: "35018" ; Times: 1
+	Query: "gymnoglaux type:specimen" ; Times: 1
+	Query: "francolinus leucoscepus" ; Times: 1
+	Query: "Meleagris" ; Times: 2
+	Query: "mimus polyglottos" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "CUMV 15962" ; Times: 1
+	Query: "Hemitriccus margaritaceiventer tissue:1" ; Times: 2
+	Query: "Aratinga institutioncode:CUMV tissue:1" ; Times: 1
+	Query: "Electron platyrhynchum brazil" ; Times: 1
+	Query: "Parish AND Island" ; Times: 1
+	Query: "giraffe" ; Times: 4
+	Query: "Lonchura punctulata 1" ; Times: 5
+	Query: "type:specimen specificepithet:gloriosa genus:Diglossa sex:male" ; Times: 1
+	Query: "CUMV 12927" ; Times: 2
+	Query: "aimophila ruficeps canescens" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 3
+	Query: "Columba livia" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 1
+	Query: "bison bison   " ; Times: 3
+	Query: "Estrilda melpoda 1" ; Times: 3
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Dendroica dominica" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; institutioncode:CUMV" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 93
+	Query: "Lepidoptera" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "Dendroica magnolia new york tissue:1" ; Times: 1
+	Query: "Diomedea" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 2
+	Query: "49990" ; Times: 1
+	Query: "CUMV 16239" ; Times: 2
+	Query: "specificepithet:aalge genus:Uria class:aves continent:Europe preparations:egg" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "francolinus afer" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "feathers" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Dendroica magnolia month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "egg texas 1900" ; Times: 1
+	Query: "dendroica magnolia AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Ptyonoprogne obsoleta" ; Times: 3
+	Query: "empidonax traillii" ; Times: 1
+	Query: "querula purpurata" ; Times: 6
+	Query: "dendroica magnolia type:specimen year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "Pyrocephalus rubinus" ; Times: 2
+	Query: "7017 cornell" ; Times: 1
+	Query: "CUMV 46671" ; Times: 2
+	Query: "Bubo virginianus AND Island" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "calyptura" ; Times: 1
+	Query: "dendroica magnolia tissue:1" ; Times: 3
+	Query: "type:specimen class:aves recordedby:grant" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 5
+	Query: "Sterna antillarum" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "Pluvialis AND Island" ; Times: 1
+	Query: "panama" ; Times: 1
+	Query: "stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "fazenda cayoa" ; Times: 2
+	Query: "campylorhynchus zonatus" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "Icterus icterus AND (galbula) tissue:1" ; Times: 2
+	Query: "specificepithet:chrysogenys genus:Melanerpes tissue:1" ; Times: 1
+	Query: "Ploceus cucullatus 1" ; Times: 2
+	Query: "columba livia" ; Times: 1
+	Query: "Tetraoninae AND Island" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fishes" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "monster" ; Times: 7
+	Query: "amazilia rutila" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "empidonax flaviventris new york tissue:1" ; Times: 2
+	Query: "class:Aves stateprovince:California" ; Times: 1
+	Query: "CUMV 16618" ; Times: 3
+	Query: "CUMV 29163" ; Times: 2
+	Query: "basileuterus" ; Times: 2
+	Query: "Dendroica magnolia" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;coyote&#34; OR &#34;Canis latrans&#34;) mappable:1" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "ramphastidae" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Stevens AND 1939" ; Times: 1
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "tangara labradorides" ; Times: 1
+	Query: "Phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Bubo virginianus Costa Rica" ; Times: 1
+	Query: "Pachyramphus albogriseus" ; Times: 3
+	Query: "empidonax traillii extimus" ; Times: 1
+	Query: "cairina tissue:1" ; Times: 1
+	Query: "Mimus dorsalis" ; Times: 1
+	Query: "Aphelocoma" ; Times: 1
+	Query: "Aratinga mitrata 1" ; Times: 3
+	Query: "Pitangus" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 6
+	Query: "francolinus icterorhynchus" ; Times: 1
+	Query: "Pteronetta tissue:1" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fish NOT Velero" ; Times: 1
+	Query: "Allenia fusca" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "Sitta canadensis" ; Times: 2
+	Query: "Basileuterus institutioncode:CUMV tissue:1" ; Times: 1
+	Query: "francolinus erckelii" ; Times: 1
+	Query: "country:&#34;Mexico&#34; year &gt;= 1937 month &gt;= 11" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "Thamnophilus" ; Times: 2
+	Query: "Thraupidae type:specimen" ; Times: 2
+	Query: "ptilopachus petrosus" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "4107" ; Times: 1
+	Query: "Eos bornea AND skeleton" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "191 belize" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 2
+	Query: "vultur gryphus" ; Times: 3
+	Query: "gymnoglaux" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "type:specimen genus:tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Tephrodornis tissue:1" ; Times: 2
+	Query: "Icterus auratus" ; Times: 2
+	Query: "Hemitriccus margaritaceiventer institutioncode:CUMV tissue:1" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "phacellodomus tissue:1" ; Times: 1
+	Query: "Picoides scalaris" ; Times: 3
+	Query: "Santa Catalina Island AND 1860" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 5
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "ortalis vetula type:specimen year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "amazilia rutila tissue:1" ; Times: 1
+	Query: "asio otus" ; Times: 2
+	Query: "numenius" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 2
+	Query: "aegolius acadicus" ; Times: 2
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "eremophila alpestris" ; Times: 2
+	Query: "CUMV 12649" ; Times: 2
+	Query: "Estrilda troglodytes 1" ; Times: 3
+	Query: "Dendroica magnolia stateprovince:&#34;New York&#34; month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "Oceanodroma" ; Times: 2
+	Query: "egg 1894 decatur texas" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "Egretta AND Island" ; Times: 1
+	Query: "Dendroica magnolia month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "pterodroma sandwichensis" ; Times: 3
+	Query: "haliaeetus" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "dendroica magnolia month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "Accipiter cooperii AND Island" ; Times: 1
+	Query: "Speculanas tissue:1" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "sericocaudatus" ; Times: 1
+	Query: "Oceanodroma microsoma AND Island" ; Times: 1
+	Query: "Colombia" ; Times: 1
+	Query: "ortalis vetula type:specimen" ; Times: 1
+	Query: "carolinus" ; Times: 1
+	Query: "Passerina caerulea AND Island" ; Times: 1
+	Query: "francolinus RUFOPICTUS" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fishe" ; Times: 1
+	Query: "Phacellodomus institutioncode:CUMV tissue:1" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "Calyptura cristata" ; Times: 1
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "dendroica dominica" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "CUMV 15692" ; Times: 1
+	Query: "Contopus caribaeus" ; Times: 1
+	Query: "Cistothorus palustris Puebla" ; Times: 1
+	Query: "woodpecker" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "aegolius" ; Times: 1
+	Query: "dendroica magnolia month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Vireo griseus" ; Times: 1
+	Query: "Mimus thenca" ; Times: 1
+	Query: "Thryophilus tissue:1" ; Times: 1
+	Query: "Cinclocerthia ruficauda" ; Times: 1
+	Query: "egg 1909 alberta" ; Times: 1
+	Query: "specificepithet:familiaris genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34; AND (NOT SUI)" ; Times: 1
+	Query: "Icterus institutioncode:CUMV tissue:1" ; Times: 1
+	Query: "a.w. anthony" ; Times: 4
+	Query: "7777" ; Times: 1
+	Query: "specificepithet:leucosticta genus:Henicorhina year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Wright AND San Clemente Island" ; Times: 1
+	Query: "buphagus" ; Times: 1
+	Query: "colinus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:chrysogenys genus:Melanerpes year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "ortalis vetula" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Dumetella carolinensis" ; Times: 1
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "selasphorus flammula" ; Times: 1
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "Mimus triurus" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 4
+	Query: "16754" ; Times: 1
+	Query: "bird wings" ; Times: 2
+	Query: "pterodroma sandwichensis (skel OR skeleton )" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "Toxostoma curvirostre" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "Dendroica magnolia tissue:1" ; Times: 1
+	Query: "Hemipus tissue:1" ; Times: 1
+	Query: "Circus cyaneus AND Island" ; Times: 1
+	Query: "pterodroma sandwichensis skeleton" ; Times: 1
+	Query: "type:specimen specificepithet:erythrophrys genus:Poospiza sex:male" ; Times: 1
+	Query: "Mimus patagonicus" ; Times: 1
+	Query: "Gujarat" ; Times: 1
+	Query: "genus:Acanthiza tissue:1" ; Times: 1
+	Query: "Rhodonessa" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "Tachyeres tissue:1" ; Times: 3
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "Philentoma tissue:1" ; Times: 1
+	Query: "Sibley type:specimen year &gt;= 1930 year &lt;= 1960" ; Times: 2
+	Query: "Sporophila" ; Times: 1
+	Query: "type:specimen specificepithet:bairdii genus:Acanthidops sex:male" ; Times: 1
+	Query: "genus:Teretistris" ; Times: 1
+	Query: "genus:Salpornis" ; Times: 1
+	Query: "2083" ; Times: 1
+	Query: "Toxostoma ocellatum" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "Icterus icterus tissue:1" ; Times: 2
+	Query: "amphispiza bilineata" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "Breninger AND 1895-02-28" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Basileuterus tissue:1" ; Times: 1
+	Query: "dendroica magnolia" ; Times: 5
+	Query: "Amandava amandava 1" ; Times: 3
+	Query: "Nettapus tissue:1" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "E. cayennensis" ; Times: 1
+	Query: "genus: aegolius" ; Times: 2
+	Query: "setophaga ruticilla" ; Times: 3
+	Query: "CUMV AND San Clemente Island" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 1052 download events in this period)
+Total number of records downloaded: 1421
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Mexico ; Times: 37
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-21 ; Times: 5
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 5
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-02 ; Times: 5
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "goura" ; Times: 2
+	Query: "Calyptura cristata" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "Philentoma tissue:1" ; Times: 1
+	Query: "Gujarat Aves" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "birds" ; Times: 1
+	Query: "Icterus auratus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "gymnoglaux type:specimen" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "Tephrodornis tissue:1" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 2
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "Hemipus tissue:1" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;coyote&#34; OR &#34;Canis latrans&#34;) mappable:1" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "agriocharis ocellata" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Criniger flaveolus" ; Times: 1
+	Query: "Chordata tissue:1" ; Times: 1
+	Query: "Pachyramphus albogriseus" ; Times: 1
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 1
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "E. cayennensis" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+
+
+End of report.
