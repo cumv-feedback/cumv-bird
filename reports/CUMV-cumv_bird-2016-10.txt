@@ -1,0 +1,92 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 1106
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 62
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 68
+	Country: Portugal ; Times: 18
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-19 ; Times: 6
+	Date: 2016-10-18 ; Times: 2
+	Date: 2016-10-31 ; Times: 1
+	Date: 2016-10-30 ; Times: 5
+	Date: 2016-10-15 ; Times: 5
+	Date: 2016-10-14 ; Times: 11
+	Date: 2016-10-17 ; Times: 1
+	Date: 2016-10-16 ; Times: 4
+	Date: 2016-10-11 ; Times: 2
+	Date: 2016-10-10 ; Times: 2
+	Date: 2016-10-13 ; Times: 1
+	Date: 2016-10-12 ; Times: 5
+	Date: 2016-10-26 ; Times: 5
+	Date: 2016-10-09 ; Times: 3
+	Date: 2016-10-28 ; Times: 5
+	Date: 2016-10-29 ; Times: 5
+	Date: 2016-10-20 ; Times: 5
+	Date: 2016-10-21 ; Times: 3
+	Date: 2016-10-22 ; Times: 3
+	Date: 2016-10-23 ; Times: 7
+	Date: 2016-10-24 ; Times: 4
+	Date: 2016-10-25 ; Times: 5
+	Date: 2016-10-08 ; Times: 7
+	Date: 2016-10-27 ; Times: 4
+	Date: 2016-10-06 ; Times: 8
+	Date: 2016-10-07 ; Times: 2
+	Date: 2016-10-04 ; Times: 4
+	Date: 2016-10-05 ; Times: 9
+	Date: 2016-10-02 ; Times: 3
+	Date: 2016-10-03 ; Times: 20
+	Date: 2016-10-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "Aratinga holochlora 1" ; Times: 1
+	Query: "Accipiter striatus mappable:1" ; Times: 1
+	Query: "Anas formosa 1" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 1
+	Query: "Pandion haliaetus mappable:1" ; Times: 6
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "Uraeginthus bengalus 1" ; Times: 1
+	Query: "Aratinga mitrata 1" ; Times: 1
+	Query: "Anas americana 1" ; Times: 1
+	Query: "Anser cygnoides 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Picumnus lafresnayi " ; Times: 1
+	Query: "Poephila guttata 1" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: " Accipiter striatus 1" ; Times: 11
+	Query: "Coturnix japonica 1" ; Times: 1
+	Query: " class:aves stateprovince:california" ; Times: 110
+	Query: "Galbalcyrhynchus purusianus " ; Times: 1
+	Query: "Columba guinea 1" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 1
+	Query: "Aquila rapax 1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
