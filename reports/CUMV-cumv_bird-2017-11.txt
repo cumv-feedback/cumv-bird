@@ -1,0 +1,153 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 918
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 91
+	Country: Canada ; Times: 10
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 33
+	Date: 2017-11-29 ; Times: 13
+	Date: 2017-11-26 ; Times: 19
+	Date: 2017-11-27 ; Times: 24
+	Date: 2017-11-24 ; Times: 5
+	Date: 2017-11-25 ; Times: 8
+	Date: 2017-11-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "47996" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "field museum egg collection" ; Times: 1
+	Query: "recordedby:J. C. Thompson" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "gray vireo sex:male" ; Times: 4
+	Query: "zosterops japonicus" ; Times: 8
+	Query: "country:&#34;canada&#34; recordedby:forge" ; Times: 7
+	Query: "genus:Phainopepla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "Arremonops country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:redivivum genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:sandwichensis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Thryophilus hastissue:1" ; Times: 2
+	Query: "Blue Mountain Vireo sex:male" ; Times: 1
+	Query: "momotidae institutioncode:CUMV" ; Times: 2
+	Query: "arremonops" ; Times: 1
+	Query: "genus:Micropygia" ; Times: 2
+	Query: "specificepithet:baileyi class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:nigricans genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Dacnis egregia egregia" ; Times: 1
+	Query: "genus:Menura preparations:skeleton" ; Times: 1
+	Query: "Pipilo 1859" ; Times: 1
+	Query: "genus:Cyanocitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "cozumel vireo sex:male" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1886" ; Times: 1
+	Query: "meropidae institutioncode:CUMV" ; Times: 6
+	Query: "specificepithet:vociferans genus:Tyrannus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "ardeidae skeleton ardea herodias" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "vntype:specimen genus:Corythaeola continent:Africa year &gt;= 1960 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34; year &gt;= 2011" ; Times: 1
+	Query: "specificepithet:borealis genus:numenius" ; Times: 2
+	Query: "formosus" ; Times: 1
+	Query: "Platycercus elegans Cumv" ; Times: 2
+	Query: "specificepithet:pleurostictus genus:Thryothorus hastissue:1" ; Times: 1
+	Query: "class:AVES county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34; year &gt;= 1870 year &lt;= 1900" ; Times: 2
+	Query: "genus:Climacteris preparations:skeleton" ; Times: 1
+	Query: "egg rouch" ; Times: 3
+	Query: "Diglossa sittoides Venezuela" ; Times: 1
+	Query: "specificepithet:vauxi genus:Chaetura class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1921" ; Times: 1
+	Query: "dacelo institutioncode:CUMV" ; Times: 9
+	Query: "vntype:specimen specificepithet:baileyi class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "specificepithet:pleurostictus genus:thryothorus" ; Times: 1
+	Query: "Cyanocompsa country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "genus:Tyto class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1905" ; Times: 1
+	Query: "Black-capped Vireo sex:male" ; Times: 1
+	Query: "Sericulus Cumv" ; Times: 1
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "specificepithet:cincta genus:poecile class:aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:pleurostictus genus:thryophilus hastissue:1" ; Times: 1
+	Query: "genus:Thryothorus hastissue:1" ; Times: 1
+	Query: "egg greenland" ; Times: 1
+	Query: "specificepithet:pleurostictus genus:thryothorus hastissue:1" ; Times: 2
+	Query: "Malurus Cumv" ; Times: 1
+	Query: "vntype:specimen genus:Corythaeola continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rattus vntype:specimen institutioncode:CUMV" ; Times: 1
+	Query: "obscura class:Aves continent:South America" ; Times: 1
+	Query: "1555" ; Times: 2
+	Query: "specificepithet:pleurostictus genus:Thryophilus hastissue:1" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus year &gt;= 1835 year &lt;= 1900" ; Times: 3
+	Query: "Ptilonorhynchus Cumv" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "Diglossa sittoides" ; Times: 1
+	Query: "Batis poensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1101 download events in this period)
+Total number of records downloaded: 178
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 9
+	Country: Israel ; Times: 2
+	Country: United Kingdom ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 9
+	Date: 2017-11-29 ; Times: 9
+	Date: 2017-11-26 ; Times: 9
+	Date: 2017-11-27 ; Times: 8
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "zosterops japonicus" ; Times: 4
+	Query: "greenland aves" ; Times: 1
+	Query: "genus:Myrmornis" ; Times: 2
+	Query: "Sericulus Cumv" ; Times: 1
+	Query: "genus:Thryophilus hastissue:1" ; Times: 1
+	Query: "specificepithet:pleurostictus genus:Thryophilus hastissue:1" ; Times: 1
+	Query: "Batis poensis" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "genus:Micropygia" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 2
+	Query: "genus:Menura preparations:skeleton" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "Platycercus elegans Cumv" ; Times: 1
+	Query: "specificepithet:pleurostictus genus:Thryothorus hastissue:1" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "specificepithet:cincta genus:poecile class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pleurostictus genus:thryophilus hastissue:1" ; Times: 1
+	Query: "specificepithet:pleurostictus genus:thryothorus hastissue:1" ; Times: 1
+	Query: "Malurus Cumv" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Sostenes Romero" ; Times: 1
+	Query: "Ptilonorhynchus Cumv" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+
+
+End of report.
