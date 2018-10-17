@@ -1,0 +1,360 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 354
+Number of records retrieved in searches: 1347
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 54
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 36
+	Country: Unknown ; Times: 13
+	Country: Venezuela ; Times: 13
+	Country: Finland ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 19
+	Country: Netherlands ; Times: 1
+	Country: China ; Times: 4
+	Country: Ecuador ; Times: 12
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 8
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 144
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-05 ; Times: 17
+	Date: 2018-06-04 ; Times: 6
+	Date: 2018-06-29 ; Times: 24
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-01 ; Times: 7
+	Date: 2018-06-25 ; Times: 48
+	Date: 2018-06-24 ; Times: 6
+	Date: 2018-06-27 ; Times: 12
+	Date: 2018-06-26 ; Times: 10
+	Date: 2018-06-21 ; Times: 21
+	Date: 2018-06-20 ; Times: 16
+	Date: 2018-06-23 ; Times: 6
+	Date: 2018-06-22 ; Times: 11
+	Date: 2018-06-09 ; Times: 5
+	Date: 2018-06-08 ; Times: 21
+	Date: 2018-06-10 ; Times: 4
+	Date: 2018-06-11 ; Times: 28
+	Date: 2018-06-12 ; Times: 8
+	Date: 2018-06-13 ; Times: 11
+	Date: 2018-06-14 ; Times: 6
+	Date: 2018-06-15 ; Times: 8
+	Date: 2018-06-16 ; Times: 6
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 7
+	Date: 2018-06-19 ; Times: 21
+	Date: 2018-06-30 ; Times: 9
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-28 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "rabbit" ; Times: 1
+	Query: "Ognorhynchus icterotis" ; Times: 3
+	Query: "Atlapetes gutturalis" ; Times: 1
+	Query: "Gaviidae" ; Times: 2
+	Query: "Schoenicola brevirostris" ; Times: 1
+	Query: "aves colombia" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 16
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "specificepithet:hyperboreus class:aves locality:hall stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "CM 32994" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "specificepithet:andicola genus:Leptasthenura" ; Times: 1
+	Query: "Hirundo semirufa" ; Times: 1
+	Query: "class:Aves catalognumber:31381" ; Times: 3
+	Query: "poecile atricapillus new york" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "chloropsis jerdoni" ; Times: 1
+	Query: "johannae" ; Times: 2
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Falcipennis hastissue:1" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "trichastoma tickelli" ; Times: 1
+	Query: "dragonfly" ; Times: 2
+	Query: "melanerpes chrysogenys" ; Times: 3
+	Query: "Pandion haliaetus" ; Times: 2
+	Query: "Pyrrhura" ; Times: 2
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Chlorophonia occipitalis" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "rhynchocyclus" ; Times: 2
+	Query: "vntype:specimen specificepithet:yucatanensis genus:amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "specificepithet:erythrophthalmus genus:pipilo month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "Pycnonotus xanthopygos" ; Times: 1
+	Query: "catalognumber:13265 institutioncode:CUMV" ; Times: 2
+	Query: "cumv 13855" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Atlapetes albofrenatus" ; Times: 1
+	Query: "locality:Ootacamund" ; Times: 1
+	Query: "frog hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "odonata" ; Times: 2
+	Query: "catalognumber:13728 institutioncode:CUMV" ; Times: 6
+	Query: "florida worm" ; Times: 3
+	Query: "skeleton genus:Turdus" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "genus:Turdus (skeleton)" ; Times: 1
+	Query: "macronyx flavicollis" ; Times: 2
+	Query: "vntype:specimen specificepithet:sordidus genus:cynanthus country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Atlapetes citrinellus" ; Times: 2
+	Query: "recordedby:Breese" ; Times: 1
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 3
+	Query: "Micropygia schomburgkii" ; Times: 12
+	Query: "specificepithet:caerulea genus:Passerina" ; Times: 1
+	Query: "specificepithet:pipra genus:Pipra country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Atlapetes rufinucha" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Schoenicola" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "class:Aves locality:Nilgiri basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "11605" ; Times: 1
+	Query: "cleckley" ; Times: 1
+	Query: "Branta canadensis New York" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 6
+	Query: "liver paridae" ; Times: 1
+	Query: "genus:Plegadis family:Threskiornithidae class:Aves" ; Times: 1
+	Query: "laniarius poensis" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "catalognumber:8960 institutioncode:CUMV" ; Times: 1
+	Query: "catalognumber:10525 institutioncode:CUMV" ; Times: 2
+	Query: "Crax rubra" ; Times: 2
+	Query: "body mass" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "specificepithet:albiceps genus:psalidoprocne" ; Times: 1
+	Query: "institutioncode:CUMV sanguineus" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Diglossa" ; Times: 9
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Monarcha chrysomela praerepta" ; Times: 1
+	Query: "Struthio camelus" ; Times: 2
+	Query: "Empidonax flaviventris" ; Times: 1
+	Query: "Diptera" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "&#34;by cat&#34;" ; Times: 8
+	Query: "Cyanocitta new york" ; Times: 1
+	Query: "Rollandia rolland" ; Times: 1
+	Query: "monticola explorator" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "testis specificepithet:leucoptera genus:loxia sex:male hassex:1 hasmass:1" ; Times: 2
+	Query: "saxicola jerdoni" ; Times: 1
+	Query: "sterna maxima skeleton" ; Times: 2
+	Query: "specificepithet:atrocaerulea genus:hirundo" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 4
+	Query: "class:aves catalognumber:29304" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Strigops habroptilus)" ; Times: 1
+	Query: "specificepithet:atrocaerulea genus:hirundo hastissue:1" ; Times: 1
+	Query: "Pardirallus maculatus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Schistochlamys ruficapillus" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "basilornis celebensis" ; Times: 1
+	Query: "villosus new york" ; Times: 2
+	Query: "Phlogophilus hemileucurus" ; Times: 2
+	Query: "Camaroptera vntype:specimen (tincta )" ; Times: 1
+	Query: "specificepithet:virens genus:Dendroica year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "monkey" ; Times: 1
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 1
+	Query: "dacnis egregia" ; Times: 1
+	Query: "Atlapetes personatus" ; Times: 1
+	Query: "9216 institutioncode:CUMV" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "genus:Cnemotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "Bahrmann" ; Times: 1
+	Query: "tinamus tao" ; Times: 2
+	Query: "horses" ; Times: 1
+	Query: "class:aves locality:matthews stateprovince:&#34;alaska&#34; year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "porch" ; Times: 1
+	Query: "Poecile atricapilla" ; Times: 1
+	Query: "liver passeriformes" ; Times: 1
+	Query: "hosner" ; Times: 1
+	Query: "Aratinga pertinax Venezuela vntype:specimen" ; Times: 1
+	Query: "Atlapetes semirufus" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "class:Aves locality:Ootacamund basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "TJC 1335" ; Times: 1
+	Query: "chlorochrysa nitidissima" ; Times: 1
+	Query: "minnesota Tyrannus tyrannus" ; Times: 1
+	Query: "gracula ptilogenys" ; Times: 1
+	Query: "Ploceidae" ; Times: 2
+	Query: "genus:calyptura" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus country:&#34;Mexico&#34; year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "macronyx sharpei" ; Times: 1
+	Query: "genus:Aquila county:&#34;san diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "dicrurus macrocercus" ; Times: 1
+	Query: "vntype:specimen class:Aves catalognumber:35343" ; Times: 1
+	Query: "numenius borealis" ; Times: 54
+	Query: "Pitta sordida" ; Times: 1
+	Query: "Garrulax cachinnans" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "Rollandia rolland rolland" ; Times: 1
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cumv 13609" ; Times: 1
+	Query: "Empidonax flaviventris egg" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Gallirallus australis)" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "specificepithet:celebensis genus:basilornis hasmass:1" ; Times: 1
+	Query: "class:aves locality:matthew stateprovince:&#34;alaska&#34; year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "South toe" ; Times: 3
+	Query: "cumv 15024" ; Times: 1
+	Query: "chlorostilbon canivetii" ; Times: 1
+	Query: "vntype:specimen class:aves locality:sardinia" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "class:aves catalognumber:36107" ; Times: 1
+	Query: "Eriocnemis nigrivestis" ; Times: 3
+	Query: "39043" ; Times: 3
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "hirundo semirufa" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 3
+	Query: "specificepithet:pipra genus:Pipra country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Tephrodornis gularis" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "testes specificepithet:leucoptera genus:loxia sex:male hassex:1 hasmass:1" ; Times: 2
+	Query: "country:&#34;Panama&#34; (inguinalis OR panamansis OR panamensis) hastissue:1" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 2
+	Query: "class:aves catalognumber:29294" ; Times: 2
+	Query: "Missouri Chordata" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "dicrurus macrocercus india" ; Times: 2
+	Query: "Benjamin M Winger" ; Times: 1
+	Query: "Regulus obscurus" ; Times: 1
+	Query: "Aves class:Aves country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "audio" ; Times: 1
+	Query: "class:Aves (33324)" ; Times: 1
+	Query: "vntype:specimen genus:CNEMOTRICCUS country:&#34;bRAZIL&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1169 download events in this period)
+Total number of records downloaded: 4215
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: United States ; Times: 21
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Argentina ; Times: 5
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-18 ; Times: 7
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-29 ; Times: 8
+	Date: 2018-06-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves stateprovince:&#34;Maranhão&#34;" ; Times: 1
+	Query: "eno river" ; Times: 1
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "blue gill fish" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "vntype:specimen class:aves locality:sardinia" ; Times: 1
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Phlogophilus hemileucurus" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "Eriocnemis nigrivestis" ; Times: 3
+	Query: "Crax rubra" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "oriturus" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "vntype:specimen specificepithet:heloisa genus:Atthis country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "Spizaetus" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "genus:Aquila county:&#34;san diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "Aves class:Aves country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
