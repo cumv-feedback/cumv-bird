@@ -1,0 +1,342 @@
+Report for Institution Code CUMV, Resource cumv_bird
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 370
+Number of records retrieved in searches: 3653
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 133
+	Country: Brazil ; Times: 36
+	Country: Italy ; Times: 3
+	Country: Peru ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 2
+	Country: Ireland ; Times: 3
+	Country: Argentina ; Times: 5
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 59
+	Country: Sweden ; Times: 6
+	Country: New Zealand ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 80
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 8
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-26 ; Times: 2
+	Date: 2020-06-08 ; Times: 13
+	Date: 2020-06-09 ; Times: 9
+	Date: 2020-06-06 ; Times: 7
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 23
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-02 ; Times: 10
+	Date: 2020-06-03 ; Times: 139
+	Date: 2020-06-01 ; Times: 13
+	Date: 2020-06-15 ; Times: 5
+	Date: 2020-06-28 ; Times: 4
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 81
+	Date: 2020-06-11 ; Times: 36
+	Date: 2020-06-12 ; Times: 2
+	Date: 2020-06-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Anas carolinensis" ; Times: 6
+	Query: "Rutilus rutilus" ; Times: 9
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 3
+	Query: "37841" ; Times: 1
+	Query: "Anas acuta" ; Times: 5
+	Query: "genus:Atlapetes hastissue:1" ; Times: 1
+	Query: "Bubo" ; Times: 1
+	Query: "Sterna dougallii mass OR weight" ; Times: 2
+	Query: "Pelecanus occidentalis hasmass:1" ; Times: 1
+	Query: "vanellus cinereus" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "Cygnus buccinator hasmass:1" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "Anas strepera" ; Times: 6
+	Query: "Cairina moschata" ; Times: 3
+	Query: "Tyto alba hasmass:1" ; Times: 1
+	Query: "Larus californicus mass OR weight" ; Times: 2
+	Query: "pellorneidae" ; Times: 1
+	Query: "Larus marinus hasmass:1" ; Times: 1
+	Query: "Pandion haliaetus mass OR weight" ; Times: 2
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "specificepithet:petrosus order:galliformes" ; Times: 1
+	Query: "Rostrhamus sociabilis mass OR weight" ; Times: 2
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Sialia currucoides mass OR weight" ; Times: 2
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "Falco sparverius mass OR weight" ; Times: 3
+	Query: "Haliaeetus leucocephalus hasmass:1" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "batis minor" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "Mycteria americana hasmass:1" ; Times: 1
+	Query: "vanellus gregarius" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 1
+	Query: "Larus delawarensis hasmass:1" ; Times: 1
+	Query: "pycnonotus" ; Times: 1
+	Query: "Larus delawarensis mass OR weight" ; Times: 2
+	Query: "Haliaeetus leucocephalus mass OR weight" ; Times: 2
+	Query: "locality:coldbrook county:&#34;los angeles&#34;" ; Times: 1
+	Query: "genus:Chondestes county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tyto alba mass OR weight" ; Times: 2
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "Progne subis hasmass:1" ; Times: 1
+	Query: "Progne subis mass OR weight" ; Times: 2
+	Query: "Sialia sialis mass OR weight" ; Times: 2
+	Query: "Tachycineta bicolor hasmass:1" ; Times: 1
+	Query: "Buteo lineatus mass OR weight" ; Times: 2
+	Query: "class:Aves country:&#34;Colombia&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:7836 institutioncode:CUMV" ; Times: 1
+	Query: "Anas platyrhynchos hasmass:1" ; Times: 1
+	Query: "specificepithet:haliaetus genus:Pandion" ; Times: 1
+	Query: "specificepithet:pipra genus:Iodopleura" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta hasmass:1" ; Times: 2
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "catalognumber:6037 institutioncode:CUMV" ; Times: 2
+	Query: "Mycteria americana mass OR weight" ; Times: 2
+	Query: "Cygnus buccinator mass OR weight" ; Times: 2
+	Query: "calyptura" ; Times: 3
+	Query: "Charadrius melodus mass OR weight" ; Times: 2
+	Query: "specificepithet:leucopogon order:galliformes" ; Times: 2
+	Query: "specificepithet:poliocephala order:galliformes" ; Times: 1
+	Query: "Buteo jamaicensis mass OR weight" ; Times: 3
+	Query: "Branta bernicla hasmass:1" ; Times: 1
+	Query: "Picoides borealis mass OR weight" ; Times: 2
+	Query: "Larus californicus hasmass:1" ; Times: 1
+	Query: "Strix varia hasmass:1" ; Times: 1
+	Query: "Charadrius melodus hasmass:1" ; Times: 1
+	Query: "Branta bernicla mass OR weight" ; Times: 2
+	Query: "Phalacrocorax penicillatus mass OR weight" ; Times: 2
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Accipiter gentilis hasmass:1" ; Times: 1
+	Query: "Athene cunicularia mass OR weight" ; Times: 2
+	Query: "specificepithet:haliaetus genus:Pandion basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "columbina talpacoti" ; Times: 1
+	Query: "Anas platyrhynchos mass OR weight" ; Times: 2
+	Query: "Calcariidae" ; Times: 2
+	Query: "Anas platyrhynchos" ; Times: 2
+	Query: "Anas americana" ; Times: 5
+	Query: "monster" ; Times: 1
+	Query: "recordedby:Henshaw" ; Times: 1
+	Query: "Larus marinus mass OR weight" ; Times: 2
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 2
+	Query: "class:aves country:&#34;peru&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 3
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "Anas penelope" ; Times: 6
+	Query: "locality:kentucky" ; Times: 3
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 2
+	Query: "Epimachus" ; Times: 1
+	Query: "Gelochelidon nilotica mass OR weight" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 12
+	Query: "vntype:specimen specificepithet:caerulescens genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Sterna dougallii hasmass:1" ; Times: 1
+	Query: "Tachycineta bicolor mass OR weight" ; Times: 2
+	Query: "Falco peregrinus hasmass:1" ; Times: 1
+	Query: "Larus occidentalis hasmass:1" ; Times: 1
+	Query: "Ardea alba mass OR weight" ; Times: 2
+	Query: "colibri" ; Times: 1
+	Query: "Pandion haliaetus hasmass:1" ; Times: 1
+	Query: "Falco peregrinus anatum" ; Times: 2
+	Query: "Epimachus fastuosus" ; Times: 4
+	Query: "Anas crecca" ; Times: 6
+	Query: "Branta canadensis mass OR weight" ; Times: 4
+	Query: "Sialia sialis hasmass:1" ; Times: 1
+	Query: "Larus occidentalis mass OR weight" ; Times: 3
+	Query: "vultur gryphus" ; Times: 2
+	Query: "Rostrhamus sociabilis hasmass:1" ; Times: 1
+	Query: "arremonops ridgwayi" ; Times: 1
+	Query: "Buteo regalis hasmass:1" ; Times: 1
+	Query: "Larus argentatus mass OR weight" ; Times: 2
+	Query: "specificepithet:motmot order:galliformes" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Rynchops niger hasmass:1" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Arenaria interpres" ; Times: 2
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "specificepithet:buffoni genus:circus country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "Accipiter cooperii mass OR weight" ; Times: 2
+	Query: "genus:Pitangus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Onychorhynchus" ; Times: 1
+	Query: "genus:ictinia institutioncode:CUMV" ; Times: 2
+	Query: "specificepithet:meleagris order:galliformes" ; Times: 1
+	Query: "Buteo regalis mass OR weight" ; Times: 2
+	Query: "Branta canadensis hasmass:1" ; Times: 4
+	Query: "Anas falcata" ; Times: 6
+	Query: "Chlorothraupis olivacea" ; Times: 1
+	Query: "pandion haliaetus" ; Times: 1
+	Query: "(&#34;Grey-headed Bulbul&#34; OR &#34;Pycnonotus priocephalus&#34;)" ; Times: 3
+	Query: "Sialia currucoides hasmass:1" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "Sterna hirundo hasmass:1" ; Times: 1
+	Query: "Cathartes aura mass OR weight" ; Times: 2
+	Query: "Pelecanus erythrorhynchos hasmass:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "Iodopleura pipra" ; Times: 1
+	Query: "genus:amazilia" ; Times: 1
+	Query: "Rynchops niger mass OR weight" ; Times: 2
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "class:aves country:&#34;china&#34; recordedby:wilder" ; Times: 1
+	Query: "beetles" ; Times: 1
+	Query: "catalognumber:20269 institutioncode:CUMV" ; Times: 1
+	Query: "pellorneidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sterna hirundo mass OR weight" ; Times: 2
+	Query: "Picoides borealis hasmass:1" ; Times: 1
+	Query: "xenicus longipes" ; Times: 1
+	Query: "Zenaida macroura mass OR weight" ; Times: 3
+	Query: "Alopochen aegyptiacus" ; Times: 6
+	Query: "Strix varia mass OR weight" ; Times: 2
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Accipiter gentilis atricapillus" ; Times: 2
+	Query: "Pelecanus occidentalis mass OR weight" ; Times: 2
+	Query: "Phalacrocorax penicillatus hasmass:1" ; Times: 1
+	Query: "Hirundapus giganteus" ; Times: 1
+	Query: "Larus argentatus hasmass:1" ; Times: 1
+	Query: "Phalacrocorax auritus mass OR weight" ; Times: 2
+	Query: "Buteo lineatus hasmass:1" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "Accipiter gentilis mass OR weight" ; Times: 2
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Hypopyrrhus" ; Times: 2
+	Query: "Onychorhynchus swainsoni" ; Times: 1
+	Query: "Anas formosa" ; Times: 6
+	Query: "Buteo jamaicensis hasmass:1" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Accipiter cooperii hasmass:1" ; Times: 2
+	Query: "Ardea alba hasmass:1" ; Times: 1
+	Query: "Cathartes aura hasmass:1" ; Times: 1
+	Query: "Microhierax caerulescens" ; Times: 1
+	Query: "Phalacrocorax auritus hasmass:1" ; Times: 1
+	Query: "RT 318" ; Times: 1
+	Query: "Falco sparverius hasmass:1" ; Times: 2
+	Query: "Pinguinus impennis preparations:Skeleton" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 2
+	Query: "CUMV 54895" ; Times: 1
+	Query: "class:Aves preparations:Syrinx basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Busarellus country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "Gelochelidon nilotica hasmass:1" ; Times: 1
+	Query: "Falco peregrinus mass OR weight" ; Times: 2
+	Query: "Batis Ansorge" ; Times: 1
+	Query: "Charadrius semipalmatus" ; Times: 2
+	Query: "Mergus merganser" ; Times: 2
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "G. A. Fischer" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "catalognumber:3257 institutioncode:CUMV" ; Times: 2
+	Query: "Athene cunicularia hasmass:1" ; Times: 1
+	Query: "Anas clypeata" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 474 download events in this period)
+Total number of records downloaded: 1182
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 24
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 19
+	Country: Austria ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-04 ; Times: 6
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-10 ; Times: 33
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:douglasii order:galliformes" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "class:aves country:&#34;china&#34; recordedby:wilder" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "specificepithet:leucopogon order:galliformes" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:motmot order:galliformes" ; Times: 1
+	Query: "Onychorhynchus swainsoni" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "calyptura" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:purpurascens order:galliformes" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:pipra genus:Iodopleura" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Onychorhynchus" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "specificepithet:cruentus order:galliformes" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "Iodopleura pipra" ; Times: 1
+	Query: "specificepithet:poliocephala order:galliformes" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+
+
+End of report.
